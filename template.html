@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{Title}}</title>
+    <meta charset="utf-8">
+    <style type="text/css">
+      @import url(https://fonts.googleapis.com/css?family=Inter);
+      @import url(https://fonts.googleapis.com/css?family=Fira+Code);
+
+      .accent, a, a:visited {
+        color: #4db2ff;
+      }
+
+      body {
+        font-family: 'Inter';
+      }
+
+      h1 {
+        text-transform: uppercase;
+      }
+
+      h1, h2, h3 {
+        font-weight: bold;
+      }
+
+      .dark {
+        background-color: #2e2e2e;
+        color: #e3e3e3;
+      }
+
+      .footnote {
+        font-size: small;
+      }
+
+      .logo img {
+        height: 2em;
+        padding-bottom: 5em;
+      }
+
+      .remark-code, .remark-inline-code { font-family: 'Fira Code'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+layout: true
+class: dark
+---
+class: center, middle
+
+.logo[![{{Logo}}](./company-logo.svg)]
+
+# {{Title}}
+
+.accent[{{Author}}]
+---
+# Agenda
+
+1. Topic #1
+1. Topic #2
+1. Topic #3
+---
+# Topic #1
+---
+# Topic #2
+---
+# Topic #3
+---
+# References
+---
+class: center, middle
+
+## Thank you!
+
+Slideshow created using [remark](https://github.com/gnab/remark).
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create({
+        navigation: {
+          scroll: false
+        },
+        ratio: "16:9"
+      });
+    </script>
+  </body>
+</html>
