@@ -2,7 +2,7 @@
 id: xvhUvJgMjIWBVEmo
 title: Violin Plot
 desc: ''
-updated: 1627594563781
+updated: 1627993560667
 created: 1627593724187
 ---
 
@@ -10,7 +10,9 @@ created: 1627593724187
 
 - https://en.wikipedia.org/wiki/Violin_plot
 - https://www.itl.nist.gov/div898/software/dataplot/refman1/auxillar/violplot.htm
+- https://chartio.com/learn/charts/violin-plot-complete-guide/
 - https://towardsdatascience.com/violin-plots-explained-fb1d115e023d
+- https://www.graphpad.com/support/faq/violin-plots-and-logarithmic-axes/
 
 ## Related
-- [[maths.statistics.kde]]
+- [[math.statistics.kde]]
