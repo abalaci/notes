@@ -2,7 +2,7 @@
 id: jb9ZiGykbV9G6wPW
 title: R
 desc: ''
-updated: 1628096184981
+updated: 1628584417760
 created: 1627912958896
 ---
 
@@ -18,6 +18,7 @@ created: 1627912958896
 - https://en.wikibooks.org/wiki/R_Programming
 - https://www.r-project.org/
 - https://cran.r-project.org/doc/manuals/r-release/R-intro.html
+- https://mran.microsoft.com/
 
 ## Courses
 
