@@ -1,17 +1,17 @@
 ---
 id: nVF9Zn3M6TsizjY4
-title: Julia
+title: Julia (Programming Language)
 desc: ''
-updated: 1628096140354
+updated: 1629405887824
 created: 1627928802977
 ---
 
 ## Notes
 
 - High-level, high-performance, compiled (JIT using LLVM) language designed for scientific and numerical computation
-- Interactive (via REPL)
+- Dynamically-typed, interactive (via REPL), feels like a scripting language
 - Multiple-paradigm (fully imperative, partially functional and object-oriented)
-- Supports multiple dispatch
+- Uses multiple dispatch
 - Interoperable with many major programming languages
 - Syntax for math operations similar to mathematical formulas
 
@@ -39,3 +39,4 @@ created: 1627928802977
 ## Related
 
 - [[dev.langs.r]]
+- [[math.statistics]]

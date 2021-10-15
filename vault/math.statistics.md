@@ -2,7 +2,7 @@
 id: GRk7EMmGTHXavJjs
 title: Statistics
 desc: ''
-updated: 1628588827274
+updated: 1629809928714
 created: 1627593487918
 ---
 
@@ -14,6 +14,7 @@ created: 1627593487918
 
 - https://online.stat.psu.edu/stat501/lesson/welcome-stat-501
 - http://faculty.washington.edu/yenchic/18W_425/
+- https://www.stat.berkeley.edu/~stark/Teach/S240/Notes/
 
 ## Blogs
 

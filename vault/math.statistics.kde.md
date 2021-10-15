@@ -2,7 +2,7 @@
 id: Bnaf2drkF7U0XCtS
 title: Kernel Density Estimation
 desc: ''
-updated: 1628588814213
+updated: 1629809963023
 created: 1627593487911
 ---
 
@@ -38,6 +38,7 @@ where $n$ is the number of sample, $h$ is the *bandwidth* and $K$ is the *kernel
 - https://towardsdatascience.com/modality-tests-and-kernel-density-estimations-3f349bb9e595
 - https://bmcproc.biomedcentral.com/articles/10.1186/1753-6561-7-S7-S7
 - http://faculty.washington.edu/yenchic/18W_425/Lec6_hist_KDE.pdf
+- https://stats.stackexchange.com/questions/219833/density-estimation-for-large-dataset
 
 ## Implementations
 
