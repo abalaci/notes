@@ -9,5 +9,5 @@ created: 1628456150086
 ## References
 
 - https://git-scm.com/book/en/v2
-- https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+- https://www.atlassian.com/git/tutorials
 - https://git-scm.com/docs/gitglossary
