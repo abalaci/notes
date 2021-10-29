@@ -1,32 +1,12 @@
-version: 1
-vaults:
-    -
-        fsPath: templates
-        seed: dendron.templates
-        name: dendron.templates
-    -
-        fsPath: vault
+version: 3
 useFMTitle: true
 useNoteTitleForLink: true
-noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
-noXVaultWikiLink: true
-lookupConfirmVaultOnCreate: false
 mermaid: true
 useKatex: true
-autoFoldFrontmatter: true
+usePrettyRefs: true
 dev:
     enablePreviewV2: true
-journal:
-    dailyDomain: daily
-    name: journal
-    dateFormat: y.MM.dd
-    addBehavior: childOfDomain
-    firstDayOfWeek: 1
-scratch:
-    name: scratch
-    dateFormat: y.MM.dd.HHmmss
-    addBehavior: asOwnDomain
 site:
     copyAssets: true
     siteHierarchies:
@@ -40,6 +20,50 @@ site:
         payload:
             - vault
             - dendron.templates
-initializeRemoteVaults: true
-seeds:
-    dendron.templates: {}
+    siteLastModified: true
+    gh_edit_branch: main
+commands:
+    lookup:
+        note:
+            selectionMode: extract
+            confirmVaultOnCreate: false
+            leaveTrace: false
+    insertNote:
+        initialValue: templates
+    insertNoteLink:
+        aliasMode: none
+        enableMultiSelect: false
+    insertNoteIndex:
+        enableMarker: false
+    randomNote: {}
+workspace:
+    dendronVersion: 0.65.0
+    seeds:
+        dendron.templates: {}
+    vaults:
+        -
+            fsPath: vault
+        -
+            fsPath: templates
+            seed: dendron.templates
+            name: dendron.templates
+    journal:
+        dailyDomain: daily
+        name: journal
+        dateFormat: y.MM.dd
+        addBehavior: childOfDomain
+    scratch:
+        name: scratch
+        dateFormat: y.MM.dd.HHmmss
+        addBehavior: asOwnDomain
+    graph:
+        zoomSpeed: 1
+    enableAutoCreateOnDefinition: false
+    enableXVaultWikiLink: false
+    enableRemoteVaultInit: true
+    workspaceVaultSyncMode: noCommit
+    enableAutoFoldFrontmatter: true
+    maxPreviewsCached: 10
+    maxNoteLength: 204800
+    enableUserTags: true
+    enableHashTags: true
