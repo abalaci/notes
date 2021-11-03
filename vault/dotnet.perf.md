@@ -2,7 +2,7 @@
 id: 5W7I4xTTvdOzhhSYrsX0U
 title: .NET Performance
 desc: ''
-updated: 1635886827328
+updated: 1635974180076
 created: 1634155706834
 ---
 
@@ -32,3 +32,11 @@ created: 1634155706834
 - [Pro .NET Benchmarking -- A. Akinshin](https://aakinshin.net/prodotnetbenchmarking)
 - [Pro .NET Memory Management -- K. Kokosa](https://prodotnetmemory.com)
 - [Pro .NET Performance -- S. Goldstein, D. Zurbalev, I. Flatlow](https://www.oreilly.com/library/view/pro-net-performance/9781430244585)
+
+## Other
+
+- [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
+
+## Related
+
+- [[perf]]
