@@ -1,3 +1,10 @@
-node_modules
+# Dendron backups
+.backup
+
+# Dendron files
 .dendron.*
-build
+
+# Dependency directories
+node_modules
+
+.next

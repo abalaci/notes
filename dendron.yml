@@ -1,33 +1,15 @@
-version: 3
-useFMTitle: true
-useNoteTitleForLink: true
-noLegacyNoteRef: true
-mermaid: true
-useKatex: true
-usePrettyRefs: true
+version: 5
 dev:
     enablePreviewV2: true
-site:
-    copyAssets: true
-    siteHierarchies:
-        - root
-    siteRootDir: docs
-    usePrettyRefs: true
-    title: Dendron
-    description: Personal knowledge space
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - vault
-            - dendron.templates
-    siteLastModified: true
-    gh_edit_branch: main
 commands:
     lookup:
         note:
             selectionMode: extract
             confirmVaultOnCreate: false
             leaveTrace: false
+            bubbleUpCreateNew: true
+            vaultSelectionModeOnCreate: smart
+            fuzzThreshold: 0.2
     insertNote:
         initialValue: templates
     insertNoteLink:
@@ -36,8 +18,9 @@ commands:
     insertNoteIndex:
         enableMarker: false
     randomNote: {}
+    copyNoteLink: {}
 workspace:
-    dendronVersion: 0.65.0
+    dendronVersion: 0.88.0
     seeds:
         dendron.templates: {}
     vaults:
@@ -67,3 +50,64 @@ workspace:
     maxNoteLength: 204800
     enableUserTags: true
     enableHashTags: true
+    task:
+        name: ''
+        dateFormat: ''
+        addBehavior: childOfCurrent
+        statusSymbols:
+            '': ' '
+            wip: w
+            done: x
+            assigned: a
+            moved: m
+            blocked: b
+            delegated: l
+            dropped: d
+            pending: 'y'
+        prioritySymbols:
+            H: high
+            M: medium
+            L: low
+        todoIntegration: false
+        createTaskSelectionType: selection2link
+    enableEditorDecorations: true
+preview:
+    enableFMTitle: true
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enablePrettyRefs: true
+    enableKatex: true
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
+    automaticallyShowPreview: false
+publishing:
+    assetsPrefix: "/notes"
+    enableFMTitle: true
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enablePrettyRefs: true
+    enableKatex: true
+    copyAssets: true
+    siteHierarchies:
+        - root
+    enableSiteLastModified: true
+    siteRootDir: docs
+    siteUrl: "https://abalaci.github.io"
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
+    enableRandomlyColoredTags: true
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - vault
+            - dendron.templates
+    writeStubs: false
+    seo:
+        title: Dendron
+        description: Personal knowledge space
+    github:
+        enableEditLink: true
+        editLinkText: Edit this page on GitHub
+        editBranch: main
+        editViewMode: tree
+    enablePrettyLinks: true
