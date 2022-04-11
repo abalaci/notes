@@ -8,9 +8,8 @@
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.tabCompletion": "on",
     "editor.wordWrap": "on",
+    "files.autoSave": "onFocusChange",
     "files.trimTrailingWhitespace": true,
-    "markdown-preview-enhanced.enableWikiLinkSyntax": true,
-    "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
     "pasteImage.path": "${currentFileDir}/assets/images",
     "pasteImage.prefix": "/",
 }
