@@ -71,6 +71,7 @@ workspace:
         todoIntegration: false
         createTaskSelectionType: selection2link
     enableEditorDecorations: true
+    enableFullHierarchyNoteTitle: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -81,7 +82,7 @@ preview:
     enableHashesForFMTags: false
     automaticallyShowPreview: false
 publishing:
-    assetsPrefix: "/notes"
+    assetsPrefix: /dendron
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
@@ -92,7 +93,7 @@ publishing:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: "https://abalaci.github.io"
+    siteUrl: https://abalaci.github.io
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
