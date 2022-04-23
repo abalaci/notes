@@ -2,7 +2,7 @@
 id: LTcL1fK4Jo66ETaWeK1FK
 title: Git
 desc: ''
-updated: 1635974094060
+updated: 1650730308166
 created: 1628456150086
 ---
 
@@ -17,6 +17,7 @@ created: 1628456150086
 - [Official Documentation](https://git-scm.com/doc)
 - [Official Glossary](https://git-scm.com/docs/gitglossary)
 - [Tutorials -- Atlassian](https://www.atlassian.com/git/tutorials)
+- [Tutorials -- Git Tower](https://www.git-tower.com/learn)
 - [Wikipedia](https://en.wikipedia.org/wiki/Git)
 
 ## Services
@@ -34,3 +35,4 @@ created: 1628456150086
 - [GitKraken](https://www.gitkraken.com)
 - [Sourcetree](https://www.sourcetreeapp.com)
 - [TortoiseGit](https://tortoisegit.org)
+- [Tower](https://www.git-tower.com)
