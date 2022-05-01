@@ -1,8 +1,8 @@
 ---
 id: nVF9Zn3M6TsizjY4
-title: Julia (Programming Language)
+title: Julia
 desc: ''
-updated: 1629405887824
+updated: 1637267466319
 created: 1627928802977
 ---
 
