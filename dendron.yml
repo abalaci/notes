@@ -20,7 +20,7 @@ commands:
     randomNote: {}
     copyNoteLink: {}
 workspace:
-    dendronVersion: 0.88.0
+    dendronVersion: 0.92.1
     seeds:
         dendron.templates: {}
     vaults:
