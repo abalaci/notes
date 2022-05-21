@@ -2,23 +2,23 @@
 id: epeaq0sf7bp5w7cospgqvvo
 title: Web Development
 desc: ''
-updated: 1653139760153
+updated: 1653151474343
 created: 1651493525308
 ---
 
 ## Tools
 
-- [Can I Use...](https://caniuse.com)
-- [Chromatic](https://www.chromatic.com)
-- [CodePen](https://codepen.io)
-- [jsDelivr](https://www.jsdelivr.com)
-- [Responsively](https://responsively.app)
-- [Storybook](https://storybook.js.org)
+- [Can I Use...](https://caniuse.com): A collection of up-to-date browser support tables for front-end web technologies on desktop and mobile browsers.
+- [Chromatic](https://www.chromatic.com): A cloud service for Storybook that automates workflows for UI feedback, visual regression testing, and documentation.
+- [CodePen](https://codepen.io): An online code editor and front-end development environment.
+- [jsDelivr](https://www.jsdelivr.com): A free and open source content delivery network (CDN) for npm packages.
+- [Responsively](https://responsively.app): A modified web browser that helps with responsive web development.
+- [Storybook](https://storybook.js.org): An open source tool for building UI components and pages in isolation.
 
 ## Design Systems
 
-- [Material Design](https://material.io/develop/web)
-- [Primer](https://primer.style)
+- [Material Design](https://material.io/develop/web): Google's design system using Material Components for the web.
+- [Primer](https://primer.style): GitHub's open source design system.
 
 ## Frameworks & Libraries
 
