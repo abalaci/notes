@@ -2,7 +2,7 @@
 id: epeaq0sf7bp5w7cospgqvvo
 title: Web Development
 desc: ''
-updated: 1651509972318
+updated: 1653139760153
 created: 1651493525308
 ---
 
@@ -41,6 +41,8 @@ created: 1651493525308
 - [CSS Zen Garden](http://csszengarden.com)
 - [Frontend Masters Guides](https://frontendmasters.com/guides)
 - [Laws of UX](https://lawsofux.com)
+- [Logoipsum](https://logoipsum.com): Free placeholder logos for design mock-ups.
+- [MDN Web Docs](https://developer.mozilla.org): An open-source, collaborative project by Mozilla, documenting web technologies, including CSS, HTML, JavaScript, and Web APIs.
 - [Modern CSS Solutions](https://moderncss.dev)
 - [Start Bootstrap](https://startbootstrap.com)
 

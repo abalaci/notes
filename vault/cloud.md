@@ -2,7 +2,7 @@
 id: wbzvfnfjnylw5itg6fuu72z
 title: Cloud Computing
 desc: ''
-updated: 1651956973966
+updated: 1652996152029
 created: 1651955627310
 ---
 
@@ -12,3 +12,11 @@ created: 1651955627310
 - [Google Cloud](https://cloud.google.com): Google's cloud computing platform.
 - [Microsoft Azure](https://azure.microsoft.com): Microsoft's hybrid cloud computing services platform.
 - [Seven Bridges Platforms](https://www.sevenbridges.com/platform/): A cloud-based environment for conducting bioinformatics analyses.
+
+## Blogs
+
+- [Cloud Academy Blog](https://cloudacademy.com/blog)
+
+## Articles
+
+- [Amazon EBS Volumes: How to Shrink ’em Down to Size](https://cloudacademy.com/blog/amazon-ebs-shink-volume)
