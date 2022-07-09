@@ -2,7 +2,7 @@
 id: nzaIGEJIdgvpLwJH7ymKe
 title: Books
 desc: ''
-updated: 1635886531407
+updated: 1657398855288
 created: 1628105448207
 ---
 
@@ -20,3 +20,4 @@ created: 1628105448207
 
 - [Computer Security: Art and Science -- M. Bishop](https://www.pearson.com/store/p/computer-security/P100001338663/9780321712332)
 - [Overcomplicated: Technology at the Limits of Comprehension -- S. Arbesman](https://www.goodreads.com/book/show/27272504-overcomplicated)
+- [The Psychology of Computer Programming](https://www.goodreads.com/en/book/show/1660754.The_Psychology_of_Computer_Programming), by Gerald Weinberg

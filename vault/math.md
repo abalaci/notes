@@ -2,7 +2,7 @@
 id: CsGGFbjhwTVGO62G
 title: Mathematics
 desc: ''
-updated: 1628203010367
+updated: 1656360594664
 created: 1627593487918
 ---
 
@@ -25,3 +25,16 @@ created: 1627593487918
 - https://www.math.harvard.edu/undergraduate/first-year/
 - https://www.math.princeton.edu/undergraduate/majors
 - https://mathematics.stanford.edu/academics/math-placement
+
+## Problems
+
+- [Project Euler](https://projecteuler.net/)
+
+## Blogs
+
+- [Beni Bogoșel's Blog](https://mathproblems123.wordpress.com/)
+- [Cezar Lupu's Blog](https://lupucezar.wordpress.com/)
+
+## Resources
+
+- [The Romanian Mathematical Society](https://ssmr.ro/)
