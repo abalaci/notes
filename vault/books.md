@@ -2,7 +2,7 @@
 id: nzaIGEJIdgvpLwJH7ymKe
 title: Books
 desc: ''
-updated: 1660161920716
+updated: 1660641004296
 created: 1628105448207
 ---
 
@@ -26,3 +26,4 @@ created: 1628105448207
 - [Computer Security: Art and Science](https://www.goodreads.com/book/show/15927030-computer-security), by Matt Bishop
 - [Overcomplicated: Technology at the Limits of Comprehension](https://www.goodreads.com/book/show/27272504-overcomplicated), by Samuel Arbesman
 - [The Psychology of Computer Programming](https://www.goodreads.com/en/book/show/1660754.The_Psychology_of_Computer_Programming), by Gerald Weinberg
+- [Your Code As a Crime Scene: Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs](https://www.goodreads.com/book/show/23627482-your-code-as-a-crime-scene), by Adam Tornhill
