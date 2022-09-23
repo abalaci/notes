@@ -79,7 +79,6 @@ workspace:
     enableEditorDecorations: true
     enableFullHierarchyNoteTitle: false
     templateHierarchy: template
-    enableSmartRefs: false
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
