@@ -2,7 +2,7 @@
 id: gxsndw2jm8a3bxkm2b528eu
 title: Windows Subsystem for Linux
 desc: ''
-updated: 1663941151350
+updated: 1664449268242
 created: 1661203073933
 ---
 
@@ -22,8 +22,13 @@ Through WSL, you can:
 
 ## Installation
 
+## Articles
+
+- [Accessing Network Applications with WSL](https://learn.microsoft.com/en-us/windows/wsl/networking)
+- [Advanced Settings Configuration in WSL](https://learn.microsoft.com/en-us/windows/wsl/wsl-config)
+- [Debugging .NET Apps in WSL with Visual Studio](https://docs.microsoft.com/en-us/visualstudio/debugger/debug-dotnet-core-in-wsl-2)
+
 ## References
 
 - [Official Documentation](https://docs.microsoft.com/en-us/windows/wsl/)
 - [Wikipedia Article](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
-- [Debugging .NET Apps in WSL with Visual Studio](https://docs.microsoft.com/en-us/visualstudio/debugger/debug-dotnet-core-in-wsl-2)
