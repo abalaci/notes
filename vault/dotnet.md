@@ -2,7 +2,7 @@
 id: 6PLkATyxbebndxZN16uIu
 title: .NET
 desc: ''
-updated: 1660641769930
+updated: 1666101667864
 created: 1635852681091
 ---
 
@@ -30,7 +30,10 @@ created: 1635852681091
 ## Resources
 
 - [.NET API Browser](https://docs.microsoft.com/en-us/dotnet/api)
-- [Official Microsoft Documentation](https://docs.microsoft.com/en-us/dotnet)
+- [.NET Framework Source Browser](https://referencesource.microsoft.com/)
+- [.NET Source Browser](https://source.dot.net/)
+- [CodeMaze](https://code-maze.com/), a .NET-oriented about simplicity and pragmatism.
+- [Official .NET Documentation](https://docs.microsoft.com/en-us/dotnet)
 
 ## Tools
 
