@@ -2,13 +2,19 @@
 id: 9t2cbpqc1vofuqkwlmbttky
 title: Writing
 desc: ''
-updated: 1663161794346
+updated: 1666347536368
 created: 1653836688221
 ---
 
 ## Articles
 
 - [Capitalization in Titles](https://www.grammarly.com/blog/capitalization-in-the-titles/)
+
+## Documentation Tools
+
+- [Docusaurus](https://docusaurus.io/): Easy to maintain open source documentation websites.
+- [Jekyll](https://jekyllrb.com/): Simple, blog-aware, static sites.
+- [mdBook](https://rust-lang.github.io/mdBook/): A command line tool to create books with Markdown.
 
 ## Resources
 

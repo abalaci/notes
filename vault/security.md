@@ -2,16 +2,26 @@
 id: 2zzdvob2h82f9c1qt2pwtmk
 title: Security
 desc: ''
-updated: 1663170317387
+updated: 1666353572571
 created: 1653558820781
 ---
 
+## Tools
+
+- [The CVE List](https://www.cve.org/)
+- [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/)
+- [MSRC Security Update Guide](https://msrc.microsoft.com/update-guide/)
+
 ## Articles
 
+- [Brute Force Web Logins](https://xstag0.medium.com/brute-force-web-logins-57c9e24a1c84)
 - [Down the Security Rabbit Hole](https://medium.com/s/the-firewall/down-the-security-rabbit-hole-31327f47743d)
 - [How Facebook Undermines Privacy Protections for Its 2 Billion WhatsApp Users](https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users)
+- [How to Brute Force Websites & Online Forms Using Hydra](https://infinitelogins.com/2020/02/22/how-to-brute-force-websites-using-hydra/)
 - [The Untold Story of NotPetya, the Most Devastating Cyberattack in History](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/)
 - [They’re back: inside a new Ryuk ransomware attack](https://news.sophos.com/en-us/2020/10/14/inside-a-new-ryuk-ransomware-attack/)
+- [Using Burp to Brute Force a Login Page](https://portswigger.net/support/using-burp-to-brute-force-a-login-page)
+- [What Is a CVE?](https://www.redhat.com/en/topics/security/what-is-cve)
 
 ## Papers
 
