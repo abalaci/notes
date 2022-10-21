@@ -2,7 +2,7 @@
 id: kbM5SZpei9eym6MP
 title: SQLite
 desc: ''
-updated: 1635104427678
+updated: 1664963167970
 created: 1627592830517
 ---
 
@@ -29,11 +29,10 @@ created: 1627592830517
 - https://sqlite.org/index.html
 - https://sqlite.org/fts5.html
 - https://sqlite.org/lockingv3.html
-- https://github.com/sqlite/sqlite
+- [GitHub Mirror](https://github.com/sqlite/sqlite)
 - https://www.sciencedirect.com/topics/computer-science/sqlite-database
 - https://thenewstack.io/the-origin-story-of-sqlite-the-worlds-most-widely-used-database-software/
 - https://towardsdatascience.com/sqlite-vs-tinydb-7d6a6a42cb97
-
 
 ## Tools
 

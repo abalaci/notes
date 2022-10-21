@@ -2,15 +2,15 @@
 id: gxsndw2jm8a3bxkm2b528eu
 title: Windows Subsystem for Linux
 desc: ''
-updated: 1664449268242
+updated: 1664893589684
 created: 1661203073933
 ---
 
 ## Overview
 
 Windows Subsystem for Linux (WSL) is a compatibility layer for natively running Linux binary executables on [Windows](./os.windows.md) operating systems.
-WSL allows you to run a [GNU/Linux](./os.linux.md) environment
-directly on Windows, unmodified, and without the overhead of a dual-boot setup or traditional virtual machine.
+WSL allows you to run a [GNU/Linux](./os.linux.md) environment directly on Windows, unmodified, and without the overhead of a dual-boot setup
+or traditional virtual machine.
 
 Through WSL, you can:
 
@@ -26,9 +26,10 @@ Through WSL, you can:
 
 - [Accessing Network Applications with WSL](https://learn.microsoft.com/en-us/windows/wsl/networking)
 - [Advanced Settings Configuration in WSL](https://learn.microsoft.com/en-us/windows/wsl/wsl-config)
-- [Debugging .NET Apps in WSL with Visual Studio](https://docs.microsoft.com/en-us/visualstudio/debugger/debug-dotnet-core-in-wsl-2)
+- [Debugging .NET Apps in WSL with Visual Studio](https://learn.microsoft.com/en-us/visualstudio/debugger/debug-dotnet-core-in-wsl-2)
+- [Import Any Linux distribution to Use with WSL](https://learn.microsoft.com/en-us/windows/wsl/use-custom-distro)
 
 ## References
 
-- [Official Documentation](https://docs.microsoft.com/en-us/windows/wsl/)
-- [Wikipedia Article](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
+- [WSL at Wikipedia](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
+- [WSL Documentation](https://learn.microsoft.com/en-us/windows/wsl/)

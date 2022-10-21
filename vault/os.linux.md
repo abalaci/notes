@@ -2,7 +2,7 @@
 id: cdttu4102o6qdte9u3lvsh6
 title: Linux
 desc: ''
-updated: 1660650326671
+updated: 1665492660411
 created: 1651954495786
 ---
 
@@ -15,6 +15,13 @@ Binary compatible with RHEL and CentOS.
 
 ## Wine
 
-- [Official Website](https://www.winehq.org/)
 - [GitHub Mirror](https://github.com/wine-mirror/wine)
 - [Wine API Guide](https://source.winehq.org/WineAPI/)
+- [Wine Website](https://www.winehq.org/)
+
+## References
+
+- [Linuxize](https://linuxize.com/)
+- Linux Documentation at [die.net](https://linux.die.net/)
+- [Linux System Administration](https://devconnected.com/category/linux-administration/) at devconnected.com
+- Michael Kerrisk's [man7.org](https://man7.org/index.html)
