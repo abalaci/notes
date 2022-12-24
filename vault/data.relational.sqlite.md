@@ -2,7 +2,7 @@
 id: kbM5SZpei9eym6MP
 title: SQLite
 desc: ''
-updated: 1664963167970
+updated: 1667475455067
 created: 1627592830517
 ---
 
@@ -37,6 +37,6 @@ created: 1627592830517
 ## Tools
 
 - https://sqliteonline.com/
-- https://sqlitebrowser.org/
+- [https://sqlitebrowser.org/](DB Browser for SQLite): A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 - https://sqlitestudio.pl/
 - https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite

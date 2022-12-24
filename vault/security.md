@@ -2,12 +2,13 @@
 id: 2zzdvob2h82f9c1qt2pwtmk
 title: Security
 desc: ''
-updated: 1666353572571
+updated: 1667222959462
 created: 1653558820781
 ---
 
 ## Tools
 
+- [CodeQL](https://codeql.github.com/): An analysis engine used by developers to automate security checks, and by security researchers to perform variant analysis.
 - [The CVE List](https://www.cve.org/)
 - [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/)
 - [MSRC Security Update Guide](https://msrc.microsoft.com/update-guide/)
