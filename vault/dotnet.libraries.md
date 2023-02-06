@@ -2,7 +2,7 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1671799090397
+updated: 1675689212562
 created: 1664308769136
 ---
 
@@ -13,6 +13,10 @@ created: 1664308769136
 ## Cloud
 
 - [LocalStack.Client](https://github.com/localstack-dotnet/localstack-dotnet-client): A lightweight .NET client for LocalStack.
+
+## Concurrency & Multithreading
+
+- [DistributedLock](https://github.com/madelson/DistributedLock): A .NET library that provides robust and easy-to-use distributed mutexes, reader-writer locks, and semaphores based on a variety of underlying technologies.
 
 ## Containers
 
@@ -26,6 +30,10 @@ created: 1664308769136
 
 - [Polly](https://github.com/App-vNext/Polly): A .NET resilience and transient-fault-handling library
 that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
+
+## File Formats
+
+- [SharpCompress](https://github.com/adamhathcock/sharpcompress): A fully managed C# library to deal with many compression types and formats.
 
 ## Logging
 

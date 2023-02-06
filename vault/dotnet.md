@@ -2,7 +2,7 @@
 id: 6PLkATyxbebndxZN16uIu
 title: .NET
 desc: ''
-updated: 1666101667864
+updated: 1673858089455
 created: 1635852681091
 ---
 
@@ -37,4 +37,5 @@ created: 1635852681091
 
 ## Tools
 
+- [.NET Upgrade Assistant](https://dotnet.microsoft.com/en-us/platform/upgrade-assistant): A .NET global tool that helps with incremental upgrades of .NET Framework-based Windows applications.
 - [Dotfuscator](https://docs.microsoft.com/en-us/visualstudio/ide/dotfuscator): Provides comprehensive .NET application protection and hardening.
