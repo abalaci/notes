@@ -2,13 +2,17 @@
 id: LTcL1fK4Jo66ETaWeK1FK
 title: Git
 desc: ''
-updated: 1650730308166
+updated: 1679496915867
 created: 1628456150086
 ---
 
 ## Books
 
-- [Pro Git -- S. Chacon, B. Straub](https://git-scm.com/book/en/v2)
+- [Pro Git](https://git-scm.com/book/en/v2), by Scott Chacon and Ben Straub.
+
+## Articles
+
+- [Git Tools: Rewriting History](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
 
 ## References
 
@@ -31,8 +35,9 @@ created: 1628456150086
 
 ## Tools
 
-- [GitHub Desktop](https://desktop.github.com)
-- [GitKraken](https://www.gitkraken.com)
-- [Sourcetree](https://www.sourcetreeapp.com)
-- [TortoiseGit](https://tortoisegit.org)
-- [Tower](https://www.git-tower.com)
+- [GitHub Desktop](https://desktop.github.com/): An open-source Git client for Windows and macOS by GitHub.
+- [GitKraken](https://www.gitkraken.com/): An intuitive Git GUI and powerful Git CLI.
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): A Git extensions for Visual Studio Code.
+- [Sourcetree](https://www.sourcetreeapp.com/): A free Git client for Windows and macOS by Atlassian.
+- [TortoiseGit](https://tortoisegit.org/): A Windows shell interface to Git.
+- [Tower](https://www.git-tower.com/): A powerful Git client for macOS and Windows.
