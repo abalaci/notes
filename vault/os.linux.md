@@ -2,7 +2,7 @@
 id: cdttu4102o6qdte9u3lvsh6
 title: Linux
 desc: ''
-updated: 1665492660411
+updated: 1677770708095
 created: 1651954495786
 ---
 
@@ -18,6 +18,10 @@ Binary compatible with RHEL and CentOS.
 - [GitHub Mirror](https://github.com/wine-mirror/wine)
 - [Wine API Guide](https://source.winehq.org/WineAPI/)
 - [Wine Website](https://www.winehq.org/)
+
+## Articles
+
+- [Is it possible to limit yum so that it lists or installs only security updates?](https://access.redhat.com/solutions/10021)
 
 ## References
 
