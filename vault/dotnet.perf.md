@@ -2,7 +2,7 @@
 id: 5W7I4xTTvdOzhhSYrsX0U
 title: .NET Performance
 desc: ''
-updated: 1635974180076
+updated: 1680524610116
 created: 1634155706834
 ---
 
@@ -23,6 +23,7 @@ created: 1634155706834
 ## Articles
 
 - [6 Essential Tools to Detect and Fix Performance Issues in .NET](https://michaelscodingspot.com/performance-tools-dotnet)
+- [CodeTrack: Profiling Modes](https://www.getcodetrack.com/profilingmodes.html)
 - [Demystifying Memory Profilers in .NET - Part 1: The Principles](https://michaelscodingspot.com/memory-profilers-principles)
 - [List of .NET Profilers: 3 Different Types and Why You Need All of Them](https://stackify.com/three-types-of-net-profilers)
 

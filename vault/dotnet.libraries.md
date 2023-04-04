@@ -2,7 +2,7 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1675689212562
+updated: 1680644462219
 created: 1664308769136
 ---
 
@@ -47,4 +47,5 @@ Supports both RFC3164 and RFC5424 message formats.
 
 ## Testing
 
+- [AutoFake](https://github.com/Serg046/AutoFake): Mock any type members, including static and non-virtual ones.
 - [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet): A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.

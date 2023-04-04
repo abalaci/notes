@@ -2,7 +2,7 @@
 id: 6PLkATyxbebndxZN16uIu
 title: .NET
 desc: ''
-updated: 1673858089455
+updated: 1680643344598
 created: 1635852681091
 ---
 
@@ -39,3 +39,4 @@ created: 1635852681091
 
 - [.NET Upgrade Assistant](https://dotnet.microsoft.com/en-us/platform/upgrade-assistant): A .NET global tool that helps with incremental upgrades of .NET Framework-based Windows applications.
 - [Dotfuscator](https://docs.microsoft.com/en-us/visualstudio/ide/dotfuscator): Provides comprehensive .NET application protection and hardening.
+- [Hawkeye 3](https://github.com/zrfisaac/Hawkeye3): A .NET runtime object editor.
