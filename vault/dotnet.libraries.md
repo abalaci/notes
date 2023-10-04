@@ -2,7 +2,7 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1680644462219
+updated: 1696422686479
 created: 1664308769136
 ---
 
@@ -21,6 +21,10 @@ created: 1664308769136
 ## Containers
 
 - [Docker.DotNet](https://github.com/dotnet/Docker.DotNet): A .NET/C# client library for Docker API.
+
+## Debugging
+
+- [Source Link](https://github.com/dotnet/sourcelink): Source Link enables a great source debugging experience for your users, by adding source control metadata to your built assets.
 
 ## Email
 
@@ -44,6 +48,18 @@ Supports both RFC3164 and RFC5424 message formats.
 ## Machine Learning
 
 - [ML.NET](https://github.com/dotnet/machinelearning): An open source and cross-platform machine learning framework for .NET.
+
+## Plotting & Charts
+
+- [ScottPlot](https://scottplot.net/): A free and open-source plotting library for .NET that makes it easy to interactively display large datasets. Line plots, bar charts, pie graphs, scatter plots, and more can be created with just a few lines of code.
+
+## Serialization
+
+- [MessagePack](https://github.com/neuecc/MessagePack-CSharp): An extremely fast MessagePack serializer for C#.
+
+## Strings
+
+- [Humanizer](https://github.com/Humanizr/Humanizer): A library for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 
 ## Testing
 
