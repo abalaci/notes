@@ -2,7 +2,7 @@
 id: 5W7I4xTTvdOzhhSYrsX0U
 title: .NET Performance
 desc: ''
-updated: 1680524610116
+updated: 1715172834153
 created: 1634155706834
 ---
 
@@ -14,6 +14,7 @@ created: 1634155706834
 - [Prefix -- Stackify](https://stackify.com/prefix)
 - [CodeTrack -- N. Van Goethem](https://www.getcodetrack.com)
 - [MiniProfiler for .NET](https://miniprofiler.com/dotnet)
+- [SharpLab](https://sharplab.io/), a .NET code playground that shows intermediate steps and results of code compilation.
 
 ### Paid
 
@@ -29,10 +30,10 @@ created: 1634155706834
 
 ## Books
 
-- [Detecting and Solving Memory Problems in .NET -- A. Totin](https://leanpub.com/detectingandsolvingmemoryproblemsinnet)
-- [Pro .NET Benchmarking -- A. Akinshin](https://aakinshin.net/prodotnetbenchmarking)
-- [Pro .NET Memory Management -- K. Kokosa](https://prodotnetmemory.com)
-- [Pro .NET Performance -- S. Goldstein, D. Zurbalev, I. Flatlow](https://www.oreilly.com/library/view/pro-net-performance/9781430244585)
+- [Detecting and Solving Memory Problems in .NET](https://leanpub.com/detectingandsolvingmemoryproblemsinnet), by Alexey Totin
+- [Pro .NET Benchmarking](https://aakinshin.net/prodotnetbenchmarking), by Andrey Akinshin
+- [Pro .NET Memory Management](https://prodotnetmemory.com), by Konrad Kokosa
+- [Pro .NET Performance](https://www.oreilly.com/library/view/pro-net-performance/9781430244585), by Sasha Goldshtein, with Dima Zurbalev and Ido Flatlow
 
 ## Other
 
