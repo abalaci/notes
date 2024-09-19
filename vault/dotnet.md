@@ -2,13 +2,17 @@
 id: 6PLkATyxbebndxZN16uIu
 title: .NET
 desc: ''
-updated: 1680870480308
+updated: 1721823317909
 created: 1635852681091
 ---
 
 ## Articles
 
 - [5 .NET Blogs for C# Developers to Follow in 2019](https://jakubgarfield.medium.com/5-net-blogs-for-c-developers-to-follow-in-2019-2b4af10927ae), by [Jakub Chodounsky](https://jakubgarfield.medium.com/)
+- [Best Practices for Exceptions](https://learn.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions)
+- [Build Resilient HTTP Apps: Key Development Patterns](https://learn.microsoft.com/en-us/dotnet/core/resilience/http-resilience)
+- [Code-style Rule Options](https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/code-style-rule-options)
+- [Introduction to Resilient App Development](https://learn.microsoft.com/en-us/dotnet/core/resilience)
 
 ## Blogs
 

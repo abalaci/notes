@@ -2,13 +2,21 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1696422686479
+updated: 1726743494197
 created: 1664308769136
 ---
 
 ## Data Analysis
 
 - [Microsoft.Data.Analysis](https://www.nuget.org/packages/Microsoft.Data.Analysis): Easy-to-use and high-performance libraries for data analysis and transformation.
+
+## Databases
+
+- [YesSql](https://github.com/sebastienros/yessql): A .NET document database interface for relational databases.
+
+## Documentation
+
+- [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore): Swagger tools for documenting APIs built on ASP.NET Core.
 
 ## Cloud
 
@@ -21,6 +29,10 @@ created: 1664308769136
 ## Containers
 
 - [Docker.DotNet](https://github.com/dotnet/Docker.DotNet): A .NET/C# client library for Docker API.
+
+## CQRS
+
+- [MediatR](https://github.com/jbogard/MediatR): A simple, unambitious mediator implementation in .NET.
 
 ## Debugging
 
@@ -48,6 +60,14 @@ Supports both RFC3164 and RFC5424 message formats.
 ## Machine Learning
 
 - [ML.NET](https://github.com/dotnet/machinelearning): An open source and cross-platform machine learning framework for .NET.
+
+## Networking
+
+- [SSH.NET](https://github.com/sshnet/SSH.NET): A Secure Shell (SSH) library for .NET, optimized for parallelism.
+
+## Performance
+
+- [Benchmark.NET](https://github.com/dotnet/BenchmarkDotNet): Powerful .NET library for benchmarking.
 
 ## Plotting & Charts
 
