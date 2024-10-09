@@ -2,7 +2,7 @@
 id: kbM5SZpei9eym6MP
 title: SQLite
 desc: ''
-updated: 1667475455067
+updated: 1728468782707
 created: 1627592830517
 ---
 

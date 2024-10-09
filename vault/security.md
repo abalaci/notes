@@ -2,7 +2,7 @@
 id: 2zzdvob2h82f9c1qt2pwtmk
 title: Security
 desc: ''
-updated: 1667222959462
+updated: 1688648080037
 created: 1653558820781
 ---
 
@@ -10,6 +10,7 @@ created: 1653558820781
 
 - [CodeQL](https://codeql.github.com/): An analysis engine used by developers to automate security checks, and by security researchers to perform variant analysis.
 - [The CVE List](https://www.cve.org/)
+= [How's My SSL?](https://www.howsmyssl.com/)
 - [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/)
 - [MSRC Security Update Guide](https://msrc.microsoft.com/update-guide/)
 
@@ -27,6 +28,10 @@ created: 1653558820781
 ## Papers
 
 - [Forensic analysis of instant messengers: Decrypt Signal, Wickr, and Threema](https://www.sciencedirect.com/science/article/pii/S2666281722000166)
+
+## Videos
+
+- [Uplifting AWS service API data protection to TLS 1.2+](https://www.youtube.com/watch?v=8szxWSqYSaY)
 
 ## Offline Threats and Vulnerabilities
 
