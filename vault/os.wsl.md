@@ -2,7 +2,7 @@
 id: gxsndw2jm8a3bxkm2b528eu
 title: Windows Subsystem for Linux
 desc: ''
-updated: 1671489339573
+updated: 1716451371017
 created: 1661203073933
 ---
 
@@ -27,8 +27,10 @@ Through WSL, you can:
 - [Accessing Network Applications with WSL](https://learn.microsoft.com/en-us/windows/wsl/networking)
 - [Advanced Settings Configuration in WSL](https://learn.microsoft.com/en-us/windows/wsl/wsl-config)
 - [Debugging .NET Apps in WSL with Visual Studio](https://learn.microsoft.com/en-us/visualstudio/debugger/debug-dotnet-core-in-wsl-2)
+- [How to Install WSL and Ubuntu 18.04 LTS on Windows 10](https://www.public-health.uiowa.edu/it/support/kb48549/)
 - [Import Any Linux distribution to Use with WSL](https://learn.microsoft.com/en-us/windows/wsl/use-custom-distro)
 - [Install Docker on WSL without Docker Desktop](https://dev.to/bowmanjd/install-docker-on-windows-wsl-without-docker-desktop-34m9)
+- [Systemd Support Is Now Available in WSL!](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/)
 
 ## References
 
