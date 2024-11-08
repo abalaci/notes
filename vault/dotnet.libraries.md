@@ -2,12 +2,13 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1726743494197
+updated: 1731065083039
 created: 1664308769136
 ---
 
-## Data Analysis
+## Data & ETL
 
+- [Etl.Net](https://github.com/paillave/Etl.Net): Mass data processing and ETL engine for .NET.
 - [Microsoft.Data.Analysis](https://www.nuget.org/packages/Microsoft.Data.Analysis): Easy-to-use and high-performance libraries for data analysis and transformation.
 
 ## Databases
@@ -72,6 +73,11 @@ Supports both RFC3164 and RFC5424 message formats.
 ## Plotting & Charts
 
 - [ScottPlot](https://scottplot.net/): A free and open-source plotting library for .NET that makes it easy to interactively display large datasets. Line plots, bar charts, pie graphs, scatter plots, and more can be created with just a few lines of code.
+
+## Reactive Programming
+
+- [Reactive.Streams](https://github.com/reactive-streams/reactive-streams-dotnet): A standard for asynchronous stream processing with non-blocking backpressure in .NET.
+- [Rx.NET](https://github.com/dotnet/reactive): Reactive extensions for .NET.
 
 ## Serialization
 

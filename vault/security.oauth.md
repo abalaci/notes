@@ -2,7 +2,7 @@
 id: g04m5puknpyev81g4295y0b
 title: OAuth
 desc: ''
-updated: 1707208627857
+updated: 1731064841539
 created: 1653558842459
 ---
 
@@ -10,6 +10,7 @@ created: 1653558842459
 
 - [OAuth 2.0 Simplified](https://www.oauth.com), by Aron Parecki
 - [Introduction to JSON Web Tokens](https://jwt.io/introduction)
+- [Prevent Attacks and Redirect Users with OAuth 2.0 State Parameters](https://auth0.com/docs/secure/attack-protection/state-parameters)
 
 ## Standards
 
