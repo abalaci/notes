@@ -2,12 +2,13 @@
 id: 6PLkATyxbebndxZN16uIu
 title: .NET
 desc: ''
-updated: 1721823317909
+updated: 1731508514415
 created: 1635852681091
 ---
 
 ## Articles
 
+- [.NET Regular Expression Source Generators](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-source-generators)
 - [5 .NET Blogs for C# Developers to Follow in 2019](https://jakubgarfield.medium.com/5-net-blogs-for-c-developers-to-follow-in-2019-2b4af10927ae), by [Jakub Chodounsky](https://jakubgarfield.medium.com/)
 - [Best Practices for Exceptions](https://learn.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions)
 - [Build Resilient HTTP Apps: Key Development Patterns](https://learn.microsoft.com/en-us/dotnet/core/resilience/http-resilience)
@@ -45,3 +46,4 @@ created: 1635852681091
 - [.NET Upgrade Assistant Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.upgradeassistant): A Visual Studio extension to assist in upgrading .NET applications to the latest versions of .NET.
 - [Dotfuscator](https://docs.microsoft.com/en-us/visualstudio/ide/dotfuscator): Provides comprehensive .NET application protection and hardening.
 - [Hawkeye 3](https://github.com/zrfisaac/Hawkeye3): A .NET runtime object editor.
+- [NuGet Ninja](https://github.com/microsoft/NugetNinja): A tool for detecting dependencies of .NET projects.

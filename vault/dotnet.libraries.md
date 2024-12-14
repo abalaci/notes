@@ -2,13 +2,14 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1731065083039
+updated: 1734179769617
 created: 1664308769136
 ---
 
 ## Data & ETL
 
 - [Etl.Net](https://github.com/paillave/Etl.Net): Mass data processing and ETL engine for .NET.
+- [LINQKit](https://github.com/scottksmith95/LINQKit): A free set of extensions for LINQ to SQL and Entity Framework power users.
 - [Microsoft.Data.Analysis](https://www.nuget.org/packages/Microsoft.Data.Analysis): Easy-to-use and high-performance libraries for data analysis and transformation.
 
 ## Databases
@@ -50,6 +51,7 @@ that allows developers to express policies such as Retry, Circuit Breaker, Timeo
 
 ## File Formats
 
+- [CsvHelper](https://github.com/JoshClose/CsvHelper): A library that helps with reading and writing CSV files.
 - [SharpCompress](https://github.com/adamhathcock/sharpcompress): A fully managed C# library to deal with many compression types and formats.
 
 ## Logging
@@ -68,7 +70,8 @@ Supports both RFC3164 and RFC5424 message formats.
 
 ## Performance
 
-- [Benchmark.NET](https://github.com/dotnet/BenchmarkDotNet): Powerful .NET library for benchmarking.
+- [Benchmark.NET](https://github.com/dotnet/BenchmarkDotNet): A powerful .NET library for benchmarking.
+- [Pipelines.Sockets.Unofficial](https://github.com/mgravell/Pipelines.Sockets.Unofficial): .NET managed sockets wrapper using the new Pipelines API.
 
 ## Plotting & Charts
 
@@ -78,6 +81,11 @@ Supports both RFC3164 and RFC5424 message formats.
 
 - [Reactive.Streams](https://github.com/reactive-streams/reactive-streams-dotnet): A standard for asynchronous stream processing with non-blocking backpressure in .NET.
 - [Rx.NET](https://github.com/dotnet/reactive): Reactive extensions for .NET.
+
+## Search
+
+- [Lucene.NET](https://github.com/apache/lucenenet/): A .NET port of the popular Apache Lucene open-source full-text search library.
+- [LunrCore](https://github.com/bleroy/lunr-core): A port of Lunr.js to .NET Core.
 
 ## Serialization
 

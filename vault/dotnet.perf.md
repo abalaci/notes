@@ -2,7 +2,7 @@
 id: 5W7I4xTTvdOzhhSYrsX0U
 title: .NET Performance
 desc: ''
-updated: 1715172834153
+updated: 1733227718841
 created: 1634155706834
 ---
 
@@ -26,6 +26,7 @@ created: 1634155706834
 - [6 Essential Tools to Detect and Fix Performance Issues in .NET](https://michaelscodingspot.com/performance-tools-dotnet)
 - [CodeTrack: Profiling Modes](https://www.getcodetrack.com/profilingmodes.html)
 - [Demystifying Memory Profilers in .NET - Part 1: The Principles](https://michaelscodingspot.com/memory-profilers-principles)
+- [The Fastest CSV Parser in .NET](https://www.joelverhagen.com/blog/2020/12/fastest-net-csv-parsers)
 - [List of .NET Profilers: 3 Different Types and Why You Need All of Them](https://stackify.com/three-types-of-net-profilers)
 
 ## Books
