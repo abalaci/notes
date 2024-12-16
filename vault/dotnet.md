@@ -2,7 +2,7 @@
 id: 6PLkATyxbebndxZN16uIu
 title: .NET
 desc: ''
-updated: 1731508514415
+updated: 1734388790876
 created: 1635852681091
 ---
 
@@ -31,6 +31,10 @@ created: 1635852681091
 
 - [C# in Depth](https://csharpindepth.com/), by Jon Skeet
 - [Practical Debugging for .NET Developers](https://practicaldebugging.net/), by Michael Shpilt
+
+## Major Breaking Changes
+
+- [BinaryFormatter Obsoletion Strategy](https://github.com/dotnet/designs/blob/main/accepted/2020/better-obsoletion/binaryformatter-obsoletion.md)
 
 ## Resources
 

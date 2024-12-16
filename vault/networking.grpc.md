@@ -2,7 +2,7 @@
 id: QTZbmaZwzYKyo69D
 title: gRPC
 desc: ''
-updated: 1662724468440
+updated: 1734388645959
 created: 1627592964565
 ---
 
