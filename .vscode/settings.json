@@ -1,4 +1,11 @@
 {
+    "[markdown]": {
+        "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+        }
+    },
     "dendron.rootDir": ".",
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.renderControlCharacters": true,
@@ -9,7 +16,5 @@
     "editor.tabCompletion": "on",
     "editor.wordWrap": "on",
     "files.autoSave": "onFocusChange",
-    "files.trimTrailingWhitespace": true,
-    "pasteImage.path": "${currentFileDir}/assets/images",
-    "pasteImage.prefix": "/",
+    "files.trimTrailingWhitespace": true
 }
