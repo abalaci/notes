@@ -1,0 +1,4531 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1734900142739,
+      "created": 1734900142739,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "RnFytXiQFrHboGg6": {
+      "id": "RnFytXiQFrHboGg6",
+      "title": "Root",
+      "desc": "",
+      "updated": 1628096509181,
+      "created": 1627503796059,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "206dff34b187a0c86690231f5ab89590",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "dkfh94o63alb7tbsand0x7y",
+        "nzaIGEJIdgvpLwJH7ymKe",
+        "wbzvfnfjnylw5itg6fuu72z",
+        "4yhbwwlogzhmx2hx0hcerss",
+        "kygx0n3whew1nclpl9t2yez",
+        "p8niaesglklrdcjloyvdx72",
+        "6PLkATyxbebndxZN16uIu",
+        "TPJzHuR1eliPxlkDoCzkB",
+        "14k92nioe3867mf7jurdcx2",
+        "CsGGFbjhwTVGO62G",
+        "cjk8rvm17udhe76byyuy2uo",
+        "bgxgiiq7eh7vhak8r9d9vlo",
+        "uBtE3AOKicb36PDES0O7f",
+        "89akqrwd8seeq56c76udd1j",
+        "GbJ3FISGIQDPWGfsK9yb2",
+        "n3ihqwcl6p4824c3o5gc48q",
+        "oo6bpdb8enqslzc0l1bneif",
+        "97jmuenrl8j8w0cg6zwb5yo",
+        "2zzdvob2h82f9c1qt2pwtmk",
+        "Otb17Tvp1g9j7aUs1drP9",
+        "epeaq0sf7bp5w7cospgqvvo",
+        "9t2cbpqc1vofuqkwlmbttky",
+        "0hka7bvryivlmsdotws2m83",
+        "0yfwjxnpstpzg9s914orvv9",
+        "t9ayf0roz6s5r6sknol7rrc",
+        "t58wEmhAtf1GlHmO"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "t58wEmhAtf1GlHmO": {
+      "id": "t58wEmhAtf1GlHmO",
+      "title": "Templates",
+      "desc": "",
+      "updated": 1627011873671,
+      "created": 1627011827853,
+      "custom": {
+        "stub": false
+      },
+      "fname": "templates",
+      "type": "note",
+      "vault": {
+        "fsPath": "templates",
+        "seed": "dendron.templates",
+        "name": "dendron.templates"
+      },
+      "contentHash": "2dd61d773544e8cb975ed7e7759ad5f1",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "hXyoNOiZ0tRepcQ6Mw79Q",
+        "seitr7b8nu0kc017j1hd01v",
+        "dEQX87VBTFJdqBM0",
+        "drpadXCVWfcVmnB5rwcdf"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "drpadXCVWfcVmnB5rwcdf": {
+      "id": "drpadXCVWfcVmnB5rwcdf",
+      "title": "Task List",
+      "desc": "",
+      "updated": 1625827127150,
+      "created": 1625827127150,
+      "custom": {},
+      "fname": "templates.task-list",
+      "type": "note",
+      "vault": {
+        "fsPath": "templates",
+        "seed": "dendron.templates",
+        "name": "dendron.templates"
+      },
+      "contentHash": "2d3b8c6f0c7d844c8603a8efea0710a4",
+      "links": [],
+      "anchors": {
+        "important": {
+          "type": "header",
+          "text": "Important:",
+          "value": "important",
+          "line": 8,
+          "column": 0,
+          "depth": 3
+        },
+        "planned": {
+          "type": "header",
+          "text": "Planned:",
+          "value": "planned",
+          "line": 13,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "t58wEmhAtf1GlHmO",
+      "data": {}
+    },
+    "dEQX87VBTFJdqBM0": {
+      "id": "dEQX87VBTFJdqBM0",
+      "title": "Project",
+      "desc": "",
+      "updated": 1627597601449,
+      "created": 1627011879390,
+      "startDate": "TODO: date to start",
+      "endDate": "TODO: when project ends",
+      "custom": {
+        "startDate": "TODO: date to start",
+        "endDate": "TODO: when project ends"
+      },
+      "fname": "templates.project",
+      "type": "note",
+      "vault": {
+        "fsPath": "templates",
+        "seed": "dendron.templates",
+        "name": "dendron.templates"
+      },
+      "contentHash": "99d0dafeb322b64ec572ec25bc4433d3",
+      "links": [],
+      "anchors": {
+        "goal": {
+          "type": "header",
+          "text": "Goal",
+          "value": "goal",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "context": {
+          "type": "header",
+          "text": "Context",
+          "value": "context",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "success-criteria": {
+          "type": "header",
+          "text": "Success Criteria",
+          "value": "success-criteria",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "log": {
+          "type": "header",
+          "text": "Log",
+          "value": "log",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "outputs": {
+          "type": "header",
+          "text": "Outputs",
+          "value": "outputs",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "tasks": {
+          "type": "header",
+          "text": "Tasks",
+          "value": "tasks",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        },
+        "lookup": {
+          "type": "header",
+          "text": "Lookup",
+          "value": "lookup",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "SYXrPmslg4yLWVDTB3J7d"
+      ],
+      "parent": "t58wEmhAtf1GlHmO",
+      "data": {}
+    },
+    "SYXrPmslg4yLWVDTB3J7d": {
+      "id": "SYXrPmslg4yLWVDTB3J7d",
+      "title": "Writing",
+      "desc": "",
+      "updated": 1629088282640,
+      "created": 1629077359293,
+      "custom": {},
+      "fname": "templates.project.writing",
+      "type": "note",
+      "vault": {
+        "fsPath": "templates",
+        "seed": "dendron.templates",
+        "name": "dendron.templates"
+      },
+      "contentHash": "b6e1ffa09fca013b6090031bc26c79df",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.project.writing",
+            "id": "SYXrPmslg4yLWVDTB3J7d",
+            "vaultName": "dendron.templates"
+          },
+          "value": "proj.",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 3,
+              "offset": 624
+            },
+            "end": {
+              "line": 27,
+              "column": 12,
+              "offset": 633
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "proj."
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.project.writing",
+            "id": "SYXrPmslg4yLWVDTB3J7d",
+            "vaultName": "dendron.templates"
+          },
+          "value": "proj..outline",
+          "position": {
+            "start": {
+              "line": 28,
+              "column": 3,
+              "offset": 636
+            },
+            "end": {
+              "line": 28,
+              "column": 20,
+              "offset": 653
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "proj..outline"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.project.writing",
+            "id": "SYXrPmslg4yLWVDTB3J7d",
+            "vaultName": "dendron.templates"
+          },
+          "value": "proj..v1",
+          "position": {
+            "start": {
+              "line": 29,
+              "column": 3,
+              "offset": 656
+            },
+            "end": {
+              "line": 29,
+              "column": 15,
+              "offset": 668
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "proj..v1"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.project.writing",
+            "id": "SYXrPmslg4yLWVDTB3J7d",
+            "vaultName": "dendron.templates"
+          },
+          "value": "proj..v2",
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 3,
+              "offset": 671
+            },
+            "end": {
+              "line": 30,
+              "column": 15,
+              "offset": 683
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "proj..v2"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.project.writing",
+            "id": "SYXrPmslg4yLWVDTB3J7d",
+            "vaultName": "dendron.templates"
+          },
+          "value": "proj..v3",
+          "position": {
+            "start": {
+              "line": 31,
+              "column": 3,
+              "offset": 686
+            },
+            "end": {
+              "line": 31,
+              "column": 15,
+              "offset": 698
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "proj..v3"
+          }
+        }
+      ],
+      "anchors": {
+        "goal": {
+          "type": "header",
+          "text": "Goal",
+          "value": "goal",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "context": {
+          "type": "header",
+          "text": "Context",
+          "value": "context",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "success-criteria": {
+          "type": "header",
+          "text": "Success Criteria",
+          "value": "success-criteria",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "log": {
+          "type": "header",
+          "text": "Log",
+          "value": "log",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "outputs": {
+          "type": "header",
+          "text": "Outputs",
+          "value": "outputs",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "tasks": {
+          "type": "header",
+          "text": "Tasks",
+          "value": "tasks",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "lookup": {
+          "type": "header",
+          "text": "Lookup",
+          "value": "lookup",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "dEQX87VBTFJdqBM0",
+      "data": {}
+    },
+    "seitr7b8nu0kc017j1hd01v": {
+      "fname": "templates.journal",
+      "stub": true,
+      "vault": {
+        "fsPath": "templates",
+        "seed": "dendron.templates",
+        "name": "dendron.templates"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1734900141698,
+      "created": 1734900141698,
+      "id": "seitr7b8nu0kc017j1hd01v",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "4lpcmcajbuq13dygye9fkbj"
+      ],
+      "parent": "t58wEmhAtf1GlHmO",
+      "data": {},
+      "title": "Journal"
+    },
+    "4lpcmcajbuq13dygye9fkbj": {
+      "fname": "templates.journal.daily",
+      "stub": true,
+      "vault": {
+        "fsPath": "templates",
+        "seed": "dendron.templates",
+        "name": "dendron.templates"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1734900141698,
+      "created": 1734900141698,
+      "id": "4lpcmcajbuq13dygye9fkbj",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "x4bdzc7HETP9CDVGJJaHT"
+      ],
+      "parent": "seitr7b8nu0kc017j1hd01v",
+      "data": {},
+      "title": "Daily"
+    },
+    "x4bdzc7HETP9CDVGJJaHT": {
+      "id": "x4bdzc7HETP9CDVGJJaHT",
+      "title": "The Five Minute Journal",
+      "desc": "Start your day, and end your day, with a simple journal method. The Five Minute Journal (5MJ) helps you express gratitude, make your days better, and focus on mindfulness.",
+      "updated": 1640789057397,
+      "created": 1640783124585,
+      "custom": {},
+      "fname": "templates.journal.daily.5mj",
+      "type": "note",
+      "vault": {
+        "fsPath": "templates",
+        "seed": "dendron.templates",
+        "name": "dendron.templates"
+      },
+      "contentHash": "2754539ac452cbfd205b6c79169a7c4d",
+      "links": [],
+      "anchors": {
+        "morning": {
+          "type": "header",
+          "text": "Morning",
+          "value": "morning",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "gratitude": {
+          "type": "header",
+          "text": "Gratitude",
+          "value": "gratitude",
+          "line": 21,
+          "column": 0,
+          "depth": 3
+        },
+        "what-would-make-today-great": {
+          "type": "header",
+          "text": "What would make today great?",
+          "value": "what-would-make-today-great",
+          "line": 29,
+          "column": 0,
+          "depth": 3
+        },
+        "daily-affirmations": {
+          "type": "header",
+          "text": "Daily affirmations",
+          "value": "daily-affirmations",
+          "line": 35,
+          "column": 0,
+          "depth": 3
+        },
+        "evening": {
+          "type": "header",
+          "text": "Evening",
+          "value": "evening",
+          "line": 39,
+          "column": 0,
+          "depth": 2
+        },
+        "amazing-things-that-happened-today": {
+          "type": "header",
+          "text": "Amazing things that happened today",
+          "value": "amazing-things-that-happened-today",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        },
+        "how-could-i-have-made-today-even-better": {
+          "type": "header",
+          "text": "How could I have made today even better?",
+          "value": "how-could-i-have-made-today-even-better",
+          "line": 49,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "4lpcmcajbuq13dygye9fkbj",
+      "data": {}
+    },
+    "hXyoNOiZ0tRepcQ6Mw79Q": {
+      "id": "hXyoNOiZ0tRepcQ6Mw79Q",
+      "title": "Contacts",
+      "desc": "",
+      "updated": 1625827008607,
+      "created": 1625823188970,
+      "custom": {},
+      "fname": "templates.contacts",
+      "type": "note",
+      "vault": {
+        "fsPath": "templates",
+        "seed": "dendron.templates",
+        "name": "dendron.templates"
+      },
+      "contentHash": "43cca82a7f3e3a513bcbdab3bf2ea644",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.contacts",
+            "id": "hXyoNOiZ0tRepcQ6Mw79Q",
+            "vaultName": "dendron.templates"
+          },
+          "value": "work",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 14,
+              "offset": 65
+            },
+            "end": {
+              "line": 6,
+              "column": 22,
+              "offset": 73
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "work"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.contacts",
+            "id": "hXyoNOiZ0tRepcQ6Mw79Q",
+            "vaultName": "dendron.templates"
+          },
+          "value": "neighbor",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 24,
+              "offset": 75
+            },
+            "end": {
+              "line": 6,
+              "column": 36,
+              "offset": 87
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "neighbor"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.contacts",
+            "id": "hXyoNOiZ0tRepcQ6Mw79Q",
+            "vaultName": "dendron.templates"
+          },
+          "value": "work",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 19,
+              "offset": 107
+            },
+            "end": {
+              "line": 7,
+              "column": 27,
+              "offset": 115
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "work"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.contacts",
+            "id": "hXyoNOiZ0tRepcQ6Mw79Q",
+            "vaultName": "dendron.templates"
+          },
+          "value": "fundraising-team",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 29,
+              "offset": 117
+            },
+            "end": {
+              "line": 7,
+              "column": 49,
+              "offset": 137
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "fundraising-team"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.contacts",
+            "id": "hXyoNOiZ0tRepcQ6Mw79Q",
+            "vaultName": "dendron.templates"
+          },
+          "value": "college",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 15,
+              "offset": 213
+            },
+            "end": {
+              "line": 13,
+              "column": 26,
+              "offset": 224
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "college"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "templates.contacts",
+            "id": "hXyoNOiZ0tRepcQ6Mw79Q",
+            "vaultName": "dendron.templates"
+          },
+          "value": "neighbor",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 19,
+              "offset": 267
+            },
+            "end": {
+              "line": 14,
+              "column": 31,
+              "offset": 279
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "neighbor"
+          }
+        }
+      ],
+      "anchors": {
+        "professional-contacts": {
+          "type": "header",
+          "text": "Professional Contacts",
+          "value": "professional-contacts",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "personal-contacts": {
+          "type": "header",
+          "text": "Personal Contacts",
+          "value": "personal-contacts",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "t58wEmhAtf1GlHmO",
+      "data": {}
+    },
+    "t9ayf0roz6s5r6sknol7rrc": {
+      "fname": "versioning",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1734900141690,
+      "created": 1734900141690,
+      "id": "t9ayf0roz6s5r6sknol7rrc",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "LTcL1fK4Jo66ETaWeK1FK"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {},
+      "title": "Versioning"
+    },
+    "LTcL1fK4Jo66ETaWeK1FK": {
+      "id": "LTcL1fK4Jo66ETaWeK1FK",
+      "title": "Git",
+      "desc": "",
+      "updated": 1679496915867,
+      "created": 1628456150086,
+      "custom": {},
+      "fname": "versioning.git",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "72517d1bf9ae6919065b1f9cc1a9c97a",
+      "links": [],
+      "anchors": {
+        "books": {
+          "type": "header",
+          "text": "Books",
+          "value": "books",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "services": {
+          "type": "header",
+          "text": "Services",
+          "value": "services",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "t9ayf0roz6s5r6sknol7rrc",
+      "data": {}
+    },
+    "0yfwjxnpstpzg9s914orvv9": {
+      "fname": "design",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1734900141685,
+      "created": 1734900141685,
+      "id": "0yfwjxnpstpzg9s914orvv9",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "uBejGmppV0oRIcuK7WCe6",
+        "l9pz6h52ttgrkf2e80b9pml",
+        "3i004e582ohb89twv7pys4h"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {},
+      "title": "Design"
+    },
+    "3i004e582ohb89twv7pys4h": {
+      "id": "3i004e582ohb89twv7pys4h",
+      "title": "Software Design",
+      "desc": "",
+      "updated": 1683030711193,
+      "created": 1663944461319,
+      "custom": {},
+      "fname": "design.software",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "894fc8465585a42af91d7e2182f7d749",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "frameworks": {
+          "type": "header",
+          "text": "Frameworks",
+          "value": "frameworks",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0yfwjxnpstpzg9s914orvv9",
+      "data": {}
+    },
+    "l9pz6h52ttgrkf2e80b9pml": {
+      "id": "l9pz6h52ttgrkf2e80b9pml",
+      "title": "Reverse Engineering",
+      "desc": "",
+      "updated": 1664055754438,
+      "created": 1662843185266,
+      "custom": {},
+      "fname": "design.reverse-eng",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "dfe113ef658a10a16e5db305cdd468a1",
+      "links": [],
+      "anchors": {
+        "people": {
+          "type": "header",
+          "text": "People",
+          "value": "people",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0yfwjxnpstpzg9s914orvv9",
+      "data": {}
+    },
+    "uBejGmppV0oRIcuK7WCe6": {
+      "id": "uBejGmppV0oRIcuK7WCe6",
+      "title": "Design Thinking",
+      "desc": "",
+      "updated": 1628197845277,
+      "created": 1628197825467,
+      "custom": {},
+      "fname": "design.thinking",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9a0c6a2064838c4b8009ae2f3cb25eca",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0yfwjxnpstpzg9s914orvv9",
+      "data": {}
+    },
+    "0hka7bvryivlmsdotws2m83": {
+      "fname": "computing",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1734900141684,
+      "created": 1734900141684,
+      "id": "0hka7bvryivlmsdotws2m83",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "JkCIqQFNW8bhKSQr0g9B4"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {},
+      "title": "Computing"
+    },
+    "JkCIqQFNW8bhKSQr0g9B4": {
+      "id": "JkCIqQFNW8bhKSQr0g9B4",
+      "title": "Cluster Computing",
+      "desc": "",
+      "updated": 1628444229254,
+      "created": 1628443803467,
+      "custom": {},
+      "fname": "computing.cluster",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2db971d77642b65d1283412b2a778aab",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "feg2BLgaTj3PPvJ9jpIxJ"
+      ],
+      "parent": "0hka7bvryivlmsdotws2m83",
+      "data": {}
+    },
+    "feg2BLgaTj3PPvJ9jpIxJ": {
+      "id": "feg2BLgaTj3PPvJ9jpIxJ",
+      "title": "Rocks",
+      "desc": "",
+      "updated": 1628444202203,
+      "created": 1628443991428,
+      "custom": {},
+      "fname": "computing.cluster.rocks",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "db10016c9b52a8b5feab95081ef44e11",
+      "links": [],
+      "anchors": {
+        "links": {
+          "type": "header",
+          "text": "Links",
+          "value": "links",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "installation": {
+          "type": "header",
+          "text": "Installation",
+          "value": "installation",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "JkCIqQFNW8bhKSQr0g9B4",
+      "data": {}
+    },
+    "9t2cbpqc1vofuqkwlmbttky": {
+      "id": "9t2cbpqc1vofuqkwlmbttky",
+      "title": "Writing",
+      "desc": "",
+      "updated": 1680644201778,
+      "created": 1653836688221,
+      "custom": {},
+      "fname": "writing",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a3a62d90c3b13f124316882f0ae9823e",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "epeaq0sf7bp5w7cospgqvvo": {
+      "id": "epeaq0sf7bp5w7cospgqvvo",
+      "title": "Web Development",
+      "desc": "",
+      "updated": 1653151474343,
+      "created": 1651493525308,
+      "custom": {},
+      "fname": "web",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "96a2e000c3ebf8c5df80ee447b7e02b9",
+      "links": [],
+      "anchors": {
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "design-systems": {
+          "type": "header",
+          "text": "Design Systems",
+          "value": "design-systems",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "frameworks--libraries": {
+          "type": "header",
+          "text": "Frameworks & Libraries",
+          "value": "frameworks--libraries",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 48,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "ixu0s8y0ox5hd04jqfg2f81",
+        "h1ajiwxd39jb49lqomd4rzq",
+        "r8cp764pnyr1yox2dfpt3uo"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "r8cp764pnyr1yox2dfpt3uo": {
+      "id": "r8cp764pnyr1yox2dfpt3uo",
+      "title": "Time to First Byte (TTFB)",
+      "desc": "",
+      "updated": 1655295866094,
+      "created": 1655295762536,
+      "custom": {},
+      "fname": "web.ttfb",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "654e9ec492a9ae0d1c6aa5d41ba82d98",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "epeaq0sf7bp5w7cospgqvvo",
+      "data": {}
+    },
+    "h1ajiwxd39jb49lqomd4rzq": {
+      "id": "h1ajiwxd39jb49lqomd4rzq",
+      "title": "HTTP",
+      "desc": "",
+      "updated": 1664539028992,
+      "created": 1664538947642,
+      "custom": {},
+      "fname": "web.http",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "87934132f02491580edf46a1756fe59e",
+      "links": [],
+      "anchors": {
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "epeaq0sf7bp5w7cospgqvvo",
+      "data": {}
+    },
+    "ixu0s8y0ox5hd04jqfg2f81": {
+      "id": "ixu0s8y0ox5hd04jqfg2f81",
+      "title": "Content Management Systems",
+      "desc": "",
+      "updated": 1651506161709,
+      "created": 1651497794747,
+      "custom": {},
+      "fname": "web.cms",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "d655f126c295d3f15598c93831eb46d4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "epeaq0sf7bp5w7cospgqvvo",
+      "data": {}
+    },
+    "Otb17Tvp1g9j7aUs1drP9": {
+      "id": "Otb17Tvp1g9j7aUs1drP9",
+      "title": "Virtualization",
+      "desc": "",
+      "updated": 1632580009552,
+      "created": 1632580009552,
+      "custom": {},
+      "fname": "virtualization",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2c7a33026b2d850ecab9db66bc3b9381",
+      "links": [],
+      "anchors": {
+        "platforms--tools": {
+          "type": "header",
+          "text": "Platforms & Tools",
+          "value": "platforms--tools",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "research": {
+          "type": "header",
+          "text": "Research",
+          "value": "research",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "2zzdvob2h82f9c1qt2pwtmk": {
+      "id": "2zzdvob2h82f9c1qt2pwtmk",
+      "title": "Security",
+      "desc": "",
+      "updated": 1688648080037,
+      "created": 1653558820781,
+      "custom": {},
+      "fname": "security",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "43a8094f9a299f7d28f2bb8acb2cc78c",
+      "links": [],
+      "anchors": {
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "papers": {
+          "type": "header",
+          "text": "Papers",
+          "value": "papers",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        },
+        "videos": {
+          "type": "header",
+          "text": "Videos",
+          "value": "videos",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        },
+        "offline-threats-and-vulnerabilities": {
+          "type": "header",
+          "text": "Offline Threats and Vulnerabilities",
+          "value": "offline-threats-and-vulnerabilities",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        },
+        "physical-security": {
+          "type": "header",
+          "text": "Physical Security",
+          "value": "physical-security",
+          "line": 41,
+          "column": 0,
+          "depth": 3
+        },
+        "social-engineering": {
+          "type": "header",
+          "text": "Social Engineering",
+          "value": "social-engineering",
+          "line": 59,
+          "column": 0,
+          "depth": 3
+        },
+        "online-threats-and-vulnerabilities": {
+          "type": "header",
+          "text": "Online Threats and Vulnerabilities",
+          "value": "online-threats-and-vulnerabilities",
+          "line": 64,
+          "column": 0,
+          "depth": 2
+        },
+        "phishing": {
+          "type": "header",
+          "text": "Phishing",
+          "value": "phishing",
+          "line": 66,
+          "column": 0,
+          "depth": 3
+        },
+        "secure-storage-and-transmission": {
+          "type": "header",
+          "text": "Secure Storage and Transmission",
+          "value": "secure-storage-and-transmission",
+          "line": 74,
+          "column": 0,
+          "depth": 3
+        },
+        "malware": {
+          "type": "header",
+          "text": "Malware",
+          "value": "malware",
+          "line": 82,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "1mwohii1eaor1zciqmp0otm",
+        "g04m5puknpyev81g4295y0b",
+        "72a6wdfrjzjeadl3usg19lx",
+        "4wbd0l8fqm9rn2vr2xv0dt7",
+        "ygmh2n71goc58di3z942tms"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "ygmh2n71goc58di3z942tms": {
+      "id": "ygmh2n71goc58di3z942tms",
+      "title": "Syslog",
+      "desc": "",
+      "updated": 1669118052192,
+      "created": 1662724574424,
+      "custom": {},
+      "fname": "security.syslog",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7aa797a2d7ce5abcf7ab1090937954ab",
+      "links": [],
+      "anchors": {
+        "implementations": {
+          "type": "header",
+          "text": "Implementations",
+          "value": "implementations",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "2zzdvob2h82f9c1qt2pwtmk",
+      "data": {}
+    },
+    "4wbd0l8fqm9rn2vr2xv0dt7": {
+      "id": "4wbd0l8fqm9rn2vr2xv0dt7",
+      "title": "Single Sign-On (SSO)",
+      "desc": "",
+      "updated": 1663160852929,
+      "created": 1663160770237,
+      "custom": {},
+      "fname": "security.sso",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "68c599ea78f479c7c778cdbf1f5f8d10",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "2zzdvob2h82f9c1qt2pwtmk",
+      "data": {}
+    },
+    "72a6wdfrjzjeadl3usg19lx": {
+      "id": "72a6wdfrjzjeadl3usg19lx",
+      "title": "Privacy",
+      "desc": "",
+      "updated": 1655654095672,
+      "created": 1655650489536,
+      "custom": {},
+      "fname": "security.privacy",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "6e717ac88d6389ab7dd55d4adfb5cb97",
+      "links": [],
+      "anchors": {
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "2zzdvob2h82f9c1qt2pwtmk",
+      "data": {}
+    },
+    "g04m5puknpyev81g4295y0b": {
+      "id": "g04m5puknpyev81g4295y0b",
+      "title": "OAuth",
+      "desc": "",
+      "updated": 1731064841539,
+      "created": 1653558842459,
+      "custom": {},
+      "fname": "security.oauth",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4d66eeb65758fb9ec23da8175bb22770",
+      "links": [],
+      "anchors": {
+        "guides": {
+          "type": "header",
+          "text": "Guides",
+          "value": "guides",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "standards": {
+          "type": "header",
+          "text": "Standards",
+          "value": "standards",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "2zzdvob2h82f9c1qt2pwtmk",
+      "data": {}
+    },
+    "1mwohii1eaor1zciqmp0otm": {
+      "id": "1mwohii1eaor1zciqmp0otm",
+      "title": "Certificates",
+      "desc": "",
+      "updated": 1709126067624,
+      "created": 1663161879362,
+      "custom": {},
+      "fname": "security.certificates",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4323124eff59fdef6a84a465ebb6113c",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "2zzdvob2h82f9c1qt2pwtmk",
+      "data": {}
+    },
+    "97jmuenrl8j8w0cg6zwb5yo": {
+      "id": "97jmuenrl8j8w0cg6zwb5yo",
+      "title": "Search Engineering",
+      "desc": "",
+      "updated": 1731508642333,
+      "created": 1731507614159,
+      "custom": {},
+      "fname": "search",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b38cf55e4beeda2a586a72e3e0cba5e8",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "elasticsearch": {
+          "type": "header",
+          "text": "Elasticsearch",
+          "value": "elasticsearch",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "oo6bpdb8enqslzc0l1bneif": {
+      "id": "oo6bpdb8enqslzc0l1bneif",
+      "title": "Scripting",
+      "desc": "",
+      "updated": 1662988482077,
+      "created": 1662987885165,
+      "custom": {},
+      "fname": "scripting",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "26a2a8479cf9d83533dafa86e33d4b71",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "yltbg1cwtttuy5wqwqn93cj"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "yltbg1cwtttuy5wqwqn93cj": {
+      "id": "yltbg1cwtttuy5wqwqn93cj",
+      "title": "PowerShell",
+      "desc": "",
+      "updated": 1679660683039,
+      "created": 1662987895076,
+      "custom": {},
+      "fname": "scripting.powershell",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "131476366e00fc139a48145dc752f7c0",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "blogs": {
+          "type": "header",
+          "text": "Blogs",
+          "value": "blogs",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "commands": {
+          "type": "header",
+          "text": "Commands",
+          "value": "commands",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "oo6bpdb8enqslzc0l1bneif",
+      "data": {}
+    },
+    "n3ihqwcl6p4824c3o5gc48q": {
+      "id": "n3ihqwcl6p4824c3o5gc48q",
+      "title": "Regular Expressions",
+      "desc": "",
+      "updated": 1726138431546,
+      "created": 1726138310849,
+      "custom": {},
+      "fname": "regex",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "715b94bd62de93d41db115604901b000",
+      "links": [],
+      "anchors": {
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "GbJ3FISGIQDPWGfsK9yb2": {
+      "id": "GbJ3FISGIQDPWGfsK9yb2",
+      "title": "Performance",
+      "desc": "",
+      "updated": 1635974331524,
+      "created": 1632606074243,
+      "custom": {},
+      "fname": "perf",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9f561179a68d1f11cb16cc48a4b38029",
+      "links": [
+        {
+          "from": {
+            "fname": "dotnet.perf",
+            "id": "5W7I4xTTvdOzhhSYrsX0U",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 38,
+              "column": 3,
+              "offset": 1675
+            },
+            "end": {
+              "line": 38,
+              "column": 11,
+              "offset": 1683
+            },
+            "indent": []
+          },
+          "value": "perf"
+        }
+      ],
+      "anchors": {
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "89akqrwd8seeq56c76udd1j": {
+      "id": "89akqrwd8seeq56c76udd1j",
+      "title": "Operating Systems",
+      "desc": "",
+      "updated": 1651954422871,
+      "created": 1651954409974,
+      "custom": {},
+      "fname": "os",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "6c0c8667b7b1161b0c6507e4241ea7b4",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "cdttu4102o6qdte9u3lvsh6",
+        "apeomt2qjju3zp75epvudcs",
+        "gxsndw2jm8a3bxkm2b528eu",
+        "654x4v3qhrhjvx8zfpues14"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "654x4v3qhrhjvx8zfpues14": {
+      "id": "654x4v3qhrhjvx8zfpues14",
+      "title": "macOS",
+      "desc": "",
+      "updated": 1678278698330,
+      "created": 1678278598674,
+      "custom": {},
+      "fname": "os.macos",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c569bb9d4d453b812339fbd8449e3e46",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "89akqrwd8seeq56c76udd1j",
+      "data": {}
+    },
+    "gxsndw2jm8a3bxkm2b528eu": {
+      "id": "gxsndw2jm8a3bxkm2b528eu",
+      "title": "Windows Subsystem for Linux",
+      "desc": "",
+      "updated": 1716451371017,
+      "created": 1661203073933,
+      "custom": {},
+      "fname": "os.wsl",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5661338ddc07ad07e9c29d4ecaec37d2",
+      "links": [],
+      "anchors": {
+        "overview": {
+          "type": "header",
+          "text": "Overview",
+          "value": "overview",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "installation": {
+          "type": "header",
+          "text": "Installation",
+          "value": "installation",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 34,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "89akqrwd8seeq56c76udd1j",
+      "data": {}
+    },
+    "apeomt2qjju3zp75epvudcs": {
+      "id": "apeomt2qjju3zp75epvudcs",
+      "title": "Windows",
+      "desc": "",
+      "updated": 1709117078801,
+      "created": 1661204646629,
+      "custom": {},
+      "fname": "os.windows",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5241ce948c490e3c725391beef35cf10",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "package-managers": {
+          "type": "header",
+          "text": "Package Managers",
+          "value": "package-managers",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "windows-package-manager-winget": {
+          "type": "header",
+          "text": "Windows Package Manager (WinGet)",
+          "value": "windows-package-manager-winget",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "89akqrwd8seeq56c76udd1j",
+      "data": {}
+    },
+    "cdttu4102o6qdte9u3lvsh6": {
+      "id": "cdttu4102o6qdte9u3lvsh6",
+      "title": "Linux",
+      "desc": "",
+      "updated": 1688648152109,
+      "created": 1651954495786,
+      "custom": {},
+      "fname": "os.linux",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a427ac376610145b26ddde3a20aeca69",
+      "links": [],
+      "anchors": {
+        "distributions": {
+          "type": "header",
+          "text": "Distributions",
+          "value": "distributions",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "wine": {
+          "type": "header",
+          "text": "Wine",
+          "value": "wine",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "89akqrwd8seeq56c76udd1j",
+      "data": {}
+    },
+    "uBtE3AOKicb36PDES0O7f": {
+      "id": "uBtE3AOKicb36PDES0O7f",
+      "title": "Open Source",
+      "desc": "",
+      "updated": 1635535003814,
+      "created": 1635534698407,
+      "custom": {},
+      "fname": "open-source",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8df76331c1574ad8b0ff1ca84a93b3b0",
+      "links": [],
+      "anchors": {
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "bgxgiiq7eh7vhak8r9d9vlo": {
+      "id": "bgxgiiq7eh7vhak8r9d9vlo",
+      "title": "Networking",
+      "desc": "",
+      "updated": 1731507038242,
+      "created": 1722860677465,
+      "custom": {},
+      "fname": "networking",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "d78c2253c129c372e6b1a08bbf4b42e8",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "protocols": {
+          "type": "header",
+          "text": "Protocols",
+          "value": "protocols",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "5dvxypstb5br2sfsguy8jlw",
+        "b9xeqvhzcsb0dv14od9ngly",
+        "QTZbmaZwzYKyo69D"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "QTZbmaZwzYKyo69D": {
+      "id": "QTZbmaZwzYKyo69D",
+      "title": "gRPC",
+      "desc": "",
+      "updated": 1734388645959,
+      "created": 1627592964565,
+      "custom": {},
+      "fname": "networking.grpc",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b0b4a3cd722c8eaeb032c5b153bd6187",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "bgxgiiq7eh7vhak8r9d9vlo",
+      "data": {}
+    },
+    "b9xeqvhzcsb0dv14od9ngly": {
+      "id": "b9xeqvhzcsb0dv14od9ngly",
+      "title": "HTTP",
+      "desc": "",
+      "updated": 1718787671688,
+      "created": 1718787605782,
+      "custom": {},
+      "fname": "networking.http",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2745e57a2a1c7341db981b183f27039c",
+      "links": [],
+      "anchors": {
+        "rfcs": {
+          "type": "header",
+          "text": "RFCs",
+          "value": "rfcs",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "bgxgiiq7eh7vhak8r9d9vlo",
+      "data": {}
+    },
+    "5dvxypstb5br2sfsguy8jlw": {
+      "id": "5dvxypstb5br2sfsguy8jlw",
+      "title": "FTP",
+      "desc": "",
+      "updated": 1733181685846,
+      "created": 1688650546272,
+      "custom": {},
+      "fname": "networking.ftp",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "28c5f867e38f950026c4e8dc0894e106",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "bgxgiiq7eh7vhak8r9d9vlo",
+      "data": {}
+    },
+    "cjk8rvm17udhe76byyuy2uo": {
+      "id": "cjk8rvm17udhe76byyuy2uo",
+      "title": "Miscellaneous",
+      "desc": "",
+      "updated": 1734897350239,
+      "created": 1653837097627,
+      "custom": {},
+      "fname": "misc",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7d1a463ffde9ac75221c37c45832465e",
+      "links": [],
+      "anchors": {
+        "articles--papers": {
+          "type": "header",
+          "text": "Articles & Papers",
+          "value": "articles--papers",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "covid-19": {
+          "type": "header",
+          "text": "COVID-19",
+          "value": "covid-19",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "blogs--sites": {
+          "type": "header",
+          "text": "Blogs & Sites",
+          "value": "blogs--sites",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "ted-talks": {
+          "type": "header",
+          "text": "TED Talks",
+          "value": "ted-talks",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "CsGGFbjhwTVGO62G": {
+      "id": "CsGGFbjhwTVGO62G",
+      "title": "Mathematics",
+      "desc": "",
+      "updated": 1656360594664,
+      "created": 1627593487918,
+      "custom": {},
+      "fname": "math",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a6ae7701bbf0b8edee254acf3ddae880",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "courses": {
+          "type": "header",
+          "text": "Courses",
+          "value": "courses",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "problems": {
+          "type": "header",
+          "text": "Problems",
+          "value": "problems",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "blogs": {
+          "type": "header",
+          "text": "Blogs",
+          "value": "blogs",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "kw34y01f5t0y08e1izi31xq",
+        "5b1346uywb1cnxlyzbbp49d",
+        "yJ7ZC8fRJEhNiHJnX1Lqf",
+        "GRk7EMmGTHXavJjs"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "GRk7EMmGTHXavJjs": {
+      "id": "GRk7EMmGTHXavJjs",
+      "title": "Statistics",
+      "desc": "",
+      "updated": 1629809928714,
+      "created": 1627593487918,
+      "custom": {},
+      "fname": "math.statistics",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4c0318619eac67c2f108f36e49856fb3",
+      "links": [
+        {
+          "from": {
+            "fname": "dev.langs.julia",
+            "id": "nVF9Zn3M6TsizjY4",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 3,
+              "offset": 1064
+            },
+            "end": {
+              "line": 35,
+              "column": 22,
+              "offset": 1083
+            },
+            "indent": []
+          },
+          "value": "math.statistics"
+        }
+      ],
+      "anchors": {
+        "books": {
+          "type": "header",
+          "text": "Books",
+          "value": "books",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "courses": {
+          "type": "header",
+          "text": "Courses",
+          "value": "courses",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "blogs": {
+          "type": "header",
+          "text": "Blogs",
+          "value": "blogs",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "articles--papers": {
+          "type": "header",
+          "text": "Articles & Papers",
+          "value": "articles--papers",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "Bnaf2drkF7U0XCtS",
+        "nyHHx7JC4w0JEYDeTaokL",
+        "5c71gfxyw9a31g5a4agqnpm"
+      ],
+      "parent": "CsGGFbjhwTVGO62G",
+      "data": {}
+    },
+    "5c71gfxyw9a31g5a4agqnpm": {
+      "fname": "math.statistics.plots",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1734900141692,
+      "created": 1734900141692,
+      "id": "5c71gfxyw9a31g5a4agqnpm",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "tEc2wvRMq18OwI0M9LGHV",
+        "XUo1okkaPORKj9g9d1trk",
+        "xvhUvJgMjIWBVEmo",
+        "sTdRsrFrJqbJ4sSS"
+      ],
+      "parent": "GRk7EMmGTHXavJjs",
+      "data": {},
+      "title": "Plots"
+    },
+    "sTdRsrFrJqbJ4sSS": {
+      "id": "sTdRsrFrJqbJ4sSS",
+      "title": "Volcano Plot",
+      "desc": "",
+      "updated": 1627593900675,
+      "created": 1627593737940,
+      "custom": {},
+      "fname": "math.statistics.plots.volcano",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ad37eff0f272563f06ec54f6f0597d0c",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5c71gfxyw9a31g5a4agqnpm",
+      "data": {}
+    },
+    "xvhUvJgMjIWBVEmo": {
+      "id": "xvhUvJgMjIWBVEmo",
+      "title": "Violin Plot",
+      "desc": "",
+      "updated": 1627993560667,
+      "created": 1627593724187,
+      "custom": {},
+      "fname": "math.statistics.plots.violin",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5299b6bb3382eb2a5da22878b508d4c4",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "math.statistics.plots.violin",
+            "id": "xvhUvJgMjIWBVEmo",
+            "vaultName": "vault"
+          },
+          "value": "math.statistics.kde",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 362
+            },
+            "end": {
+              "line": 11,
+              "column": 26,
+              "offset": 385
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "math.statistics.kde"
+          }
+        }
+      ],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "related": {
+          "type": "header",
+          "text": "Related",
+          "value": "related",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5c71gfxyw9a31g5a4agqnpm",
+      "data": {}
+    },
+    "XUo1okkaPORKj9g9d1trk": {
+      "id": "XUo1okkaPORKj9g9d1trk",
+      "title": "Scatter Plots",
+      "desc": "",
+      "updated": 1635974597495,
+      "created": 1635516815568,
+      "custom": {},
+      "fname": "math.statistics.plots.scatter",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "cf5e0c36443a2c01c650d460c2e6a934",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5c71gfxyw9a31g5a4agqnpm",
+      "data": {}
+    },
+    "tEc2wvRMq18OwI0M9LGHV": {
+      "id": "tEc2wvRMq18OwI0M9LGHV",
+      "title": "Histogram",
+      "desc": "",
+      "updated": 1642677449950,
+      "created": 1642677372599,
+      "custom": {},
+      "fname": "math.statistics.plots.histogram",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "6ee74c3feb9e9d3f36d50fb93bf77a24",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5c71gfxyw9a31g5a4agqnpm",
+      "data": {}
+    },
+    "nyHHx7JC4w0JEYDeTaokL": {
+      "id": "nyHHx7JC4w0JEYDeTaokL",
+      "title": "Median",
+      "desc": "",
+      "updated": 1628588779100,
+      "created": 1628168139793,
+      "custom": {},
+      "fname": "math.statistics.median",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b382bfea25c76360e1c6d5c7656df8e8",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "GRk7EMmGTHXavJjs",
+      "data": {}
+    },
+    "Bnaf2drkF7U0XCtS": {
+      "id": "Bnaf2drkF7U0XCtS",
+      "title": "Kernel Density Estimation",
+      "desc": "",
+      "updated": 1629809963023,
+      "created": 1627593487911,
+      "custom": {},
+      "fname": "math.statistics.kde",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "cb17e08dd103c5002d6c17bde30adda9",
+      "links": [
+        {
+          "from": {
+            "fname": "math.statistics.plots.violin",
+            "id": "xvhUvJgMjIWBVEmo",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 362
+            },
+            "end": {
+              "line": 11,
+              "column": 26,
+              "offset": 385
+            },
+            "indent": []
+          },
+          "value": "math.statistics.kde"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "formula": {
+          "type": "header",
+          "text": "Formula",
+          "value": "formula",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "implementations": {
+          "type": "header",
+          "text": "Implementations",
+          "value": "implementations",
+          "line": 42,
+          "column": 0,
+          "depth": 2
+        },
+        "articles--papers": {
+          "type": "header",
+          "text": "Articles & Papers",
+          "value": "articles--papers",
+          "line": 49,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "GRk7EMmGTHXavJjs",
+      "data": {}
+    },
+    "yJ7ZC8fRJEhNiHJnX1Lqf": {
+      "id": "yJ7ZC8fRJEhNiHJnX1Lqf",
+      "title": "Probability Theory",
+      "desc": "",
+      "updated": 1628584297439,
+      "created": 1628504669041,
+      "custom": {},
+      "fname": "math.probability",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "41de05103e74af3cf0d3c4d677a9e468",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "CsGGFbjhwTVGO62G",
+      "data": {}
+    },
+    "5b1346uywb1cnxlyzbbp49d": {
+      "fname": "math.fourier",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1734900141692,
+      "created": 1734900141692,
+      "id": "5b1346uywb1cnxlyzbbp49d",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "325aFTYOxUsFGkmcCTWsw"
+      ],
+      "parent": "CsGGFbjhwTVGO62G",
+      "data": {},
+      "title": "Fourier"
+    },
+    "325aFTYOxUsFGkmcCTWsw": {
+      "id": "325aFTYOxUsFGkmcCTWsw",
+      "title": "Fast Fourier Transform",
+      "desc": "",
+      "updated": 1628584130895,
+      "created": 1628584095141,
+      "custom": {},
+      "fname": "math.fourier.fft",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8e758badf64db5ecbd47b2327db04315",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5b1346uywb1cnxlyzbbp49d",
+      "data": {}
+    },
+    "kw34y01f5t0y08e1izi31xq": {
+      "id": "kw34y01f5t0y08e1izi31xq",
+      "title": "Calculus",
+      "desc": "",
+      "updated": 1734385104404,
+      "created": 1734385039145,
+      "custom": {},
+      "fname": "math.calculus",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "172f0caeb9aefea0744cc90f63ef8063",
+      "links": [],
+      "anchors": {
+        "exercises": {
+          "type": "header",
+          "text": "Exercises",
+          "value": "exercises",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "CsGGFbjhwTVGO62G",
+      "data": {}
+    },
+    "14k92nioe3867mf7jurdcx2": {
+      "id": "14k92nioe3867mf7jurdcx2",
+      "title": "Logging",
+      "desc": "",
+      "updated": 1678279153800,
+      "created": 1678278469195,
+      "custom": {},
+      "fname": "logging",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8d03d6bbb3b7d9e7655a25bd63e3d9fd",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "TPJzHuR1eliPxlkDoCzkB": {
+      "id": "TPJzHuR1eliPxlkDoCzkB",
+      "title": "Knowledge",
+      "desc": "",
+      "updated": 1635536412421,
+      "created": 1635535682130,
+      "custom": {},
+      "fname": "knowledge",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "201dd78289efe1ccc176af47948c46a5",
+      "links": [],
+      "anchors": {
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "6PLkATyxbebndxZN16uIu": {
+      "id": "6PLkATyxbebndxZN16uIu",
+      "title": ".NET",
+      "desc": "",
+      "updated": 1734388790876,
+      "created": 1635852681091,
+      "custom": {},
+      "fname": "dotnet",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9a8fb94e76205f6b53d49097a74d9602",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "blogs": {
+          "type": "header",
+          "text": "Blogs",
+          "value": "blogs",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "books": {
+          "type": "header",
+          "text": "Books",
+          "value": "books",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "major-breaking-changes": {
+          "type": "header",
+          "text": "Major Breaking Changes",
+          "value": "major-breaking-changes",
+          "line": 34,
+          "column": 0,
+          "depth": 2
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 38,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 46,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "eWyFqigLrerv2sntLlDEd",
+        "3ofq57tss0rp7jviw5gckya",
+        "HnMQ0fAlQSKTme9oduhAK",
+        "5W7I4xTTvdOzhhSYrsX0U",
+        "40y0my9utvkvlmb1c16gty7",
+        "wdcfkr2pxfj3amtm402a9dw",
+        "v0643o2lui49s9o4rlwn339",
+        "drd3iuss2ust2mtspl52nbi",
+        "nyx7bz80r362cu163vhwqyk",
+        "6resp9vacruut3cb55u8vq6",
+        "1tnmkybytnxzutdpupgg6yy",
+        "3oytnfpj9ac2l576g899hsq",
+        "hm5iuswkbgnx4thp4hbn9dj",
+        "wgogt1yj3ubvgwaexanpfnp"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "wgogt1yj3ubvgwaexanpfnp": {
+      "id": "wgogt1yj3ubvgwaexanpfnp",
+      "title": "Visual Studio",
+      "desc": "",
+      "updated": 1680524942337,
+      "created": 1679924181619,
+      "custom": {},
+      "fname": "dotnet.vs",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9a2c173a20b3292b3358734e14415f37",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "hm5iuswkbgnx4thp4hbn9dj": {
+      "id": "hm5iuswkbgnx4thp4hbn9dj",
+      "title": "Threading",
+      "desc": "",
+      "updated": 1665408389065,
+      "created": 1665408253815,
+      "custom": {},
+      "fname": "dotnet.threading",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "efe3a8f728495548f39b2b821a20f4da",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "3oytnfpj9ac2l576g899hsq": {
+      "id": "3oytnfpj9ac2l576g899hsq",
+      "title": "Orchard Core",
+      "desc": "",
+      "updated": 1655498256802,
+      "created": 1651497862332,
+      "custom": {},
+      "fname": "dotnet.orchard",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "6a771315fa30b015613dc6c8945f1801",
+      "links": [],
+      "anchors": {
+        "overview": {
+          "type": "header",
+          "text": "Overview",
+          "value": "overview",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "blogs": {
+          "type": "header",
+          "text": "Blogs",
+          "value": "blogs",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "1tnmkybytnxzutdpupgg6yy": {
+      "id": "1tnmkybytnxzutdpupgg6yy",
+      "title": "NuGet",
+      "desc": "",
+      "updated": 1679497057869,
+      "created": 1669303646343,
+      "custom": {},
+      "fname": "dotnet.nuget",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "280724036a8021f2a4ff78f07b45f89d",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "6resp9vacruut3cb55u8vq6": {
+      "id": "6resp9vacruut3cb55u8vq6",
+      "title": "Mono",
+      "desc": "",
+      "updated": 1679497092955,
+      "created": 1677770366226,
+      "custom": {},
+      "fname": "dotnet.mono",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "0cc7f8c80f7197b29c4f39e50ec296e9",
+      "links": [],
+      "anchors": {
+        "dependencies": {
+          "type": "header",
+          "text": "Dependencies",
+          "value": "dependencies",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "libgdiplus": {
+          "type": "header",
+          "text": "libgdiplus",
+          "value": "libgdiplus",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "scripts": {
+          "type": "header",
+          "text": "Scripts",
+          "value": "scripts",
+          "line": 15,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "nyx7bz80r362cu163vhwqyk": {
+      "id": "nyx7bz80r362cu163vhwqyk",
+      "title": "Libraries & Frameworks",
+      "desc": "",
+      "updated": 1734888660231,
+      "created": 1664308769136,
+      "custom": {},
+      "fname": "dotnet.libraries",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b1e429d57377f8ebba01175a8b2cb4d7",
+      "links": [],
+      "anchors": {
+        "data--etl": {
+          "type": "header",
+          "text": "Data & ETL",
+          "value": "data--etl",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "databases": {
+          "type": "header",
+          "text": "Databases",
+          "value": "databases",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "documentation": {
+          "type": "header",
+          "text": "Documentation",
+          "value": "documentation",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "cloud": {
+          "type": "header",
+          "text": "Cloud",
+          "value": "cloud",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "concurrency--multithreading": {
+          "type": "header",
+          "text": "Concurrency & Multithreading",
+          "value": "concurrency--multithreading",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "containers": {
+          "type": "header",
+          "text": "Containers",
+          "value": "containers",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        },
+        "cqrs": {
+          "type": "header",
+          "text": "CQRS",
+          "value": "cqrs",
+          "line": 34,
+          "column": 0,
+          "depth": 2
+        },
+        "debugging": {
+          "type": "header",
+          "text": "Debugging",
+          "value": "debugging",
+          "line": 38,
+          "column": 0,
+          "depth": 2
+        },
+        "email": {
+          "type": "header",
+          "text": "Email",
+          "value": "email",
+          "line": 42,
+          "column": 0,
+          "depth": 2
+        },
+        "error-handling": {
+          "type": "header",
+          "text": "Error Handling",
+          "value": "error-handling",
+          "line": 46,
+          "column": 0,
+          "depth": 2
+        },
+        "file-formats": {
+          "type": "header",
+          "text": "File Formats",
+          "value": "file-formats",
+          "line": 51,
+          "column": 0,
+          "depth": 2
+        },
+        "logging": {
+          "type": "header",
+          "text": "Logging",
+          "value": "logging",
+          "line": 56,
+          "column": 0,
+          "depth": 2
+        },
+        "machine-learning": {
+          "type": "header",
+          "text": "Machine Learning",
+          "value": "machine-learning",
+          "line": 62,
+          "column": 0,
+          "depth": 2
+        },
+        "networking": {
+          "type": "header",
+          "text": "Networking",
+          "value": "networking",
+          "line": 66,
+          "column": 0,
+          "depth": 2
+        },
+        "performance": {
+          "type": "header",
+          "text": "Performance",
+          "value": "performance",
+          "line": 70,
+          "column": 0,
+          "depth": 2
+        },
+        "plotting--charts": {
+          "type": "header",
+          "text": "Plotting & Charts",
+          "value": "plotting--charts",
+          "line": 75,
+          "column": 0,
+          "depth": 2
+        },
+        "reactive-programming": {
+          "type": "header",
+          "text": "Reactive Programming",
+          "value": "reactive-programming",
+          "line": 79,
+          "column": 0,
+          "depth": 2
+        },
+        "search": {
+          "type": "header",
+          "text": "Search",
+          "value": "search",
+          "line": 84,
+          "column": 0,
+          "depth": 2
+        },
+        "serialization": {
+          "type": "header",
+          "text": "Serialization",
+          "value": "serialization",
+          "line": 89,
+          "column": 0,
+          "depth": 2
+        },
+        "strings": {
+          "type": "header",
+          "text": "Strings",
+          "value": "strings",
+          "line": 93,
+          "column": 0,
+          "depth": 2
+        },
+        "ui": {
+          "type": "header",
+          "text": "UI",
+          "value": "ui",
+          "line": 97,
+          "column": 0,
+          "depth": 2
+        },
+        "testing": {
+          "type": "header",
+          "text": "Testing",
+          "value": "testing",
+          "line": 101,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "drd3iuss2ust2mtspl52nbi": {
+      "id": "drd3iuss2ust2mtspl52nbi",
+      "title": "Fundamentals",
+      "desc": "",
+      "updated": 1666349037798,
+      "created": 1653139590448,
+      "custom": {},
+      "fname": "dotnet.fundamentals",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e53fe013b8ff447c5ce1424c623175c4",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "formatting-types": {
+          "type": "header",
+          "text": "Formatting types",
+          "value": "formatting-types",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "types": {
+          "type": "header",
+          "text": "Types",
+          "value": "types",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "v0643o2lui49s9o4rlwn339": {
+      "id": "v0643o2lui49s9o4rlwn339",
+      "title": "C#",
+      "desc": "",
+      "updated": 1677243181493,
+      "created": 1677243151885,
+      "custom": {},
+      "fname": "dotnet.csharp",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "fd328b542c46ef1f2829e0ef3d26ead5",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "wdcfkr2pxfj3amtm402a9dw": {
+      "id": "wdcfkr2pxfj3amtm402a9dw",
+      "title": "Asynchronous Programming",
+      "desc": "",
+      "updated": 1665408469550,
+      "created": 1665408414420,
+      "custom": {},
+      "fname": "dotnet.async",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7508cb239ffb6acbdd3f3fbadddf2081",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "40y0my9utvkvlmb1c16gty7": {
+      "id": "40y0my9utvkvlmb1c16gty7",
+      "title": "ASP.NET Core",
+      "desc": "",
+      "updated": 1664538876415,
+      "created": 1653139834544,
+      "custom": {},
+      "fname": "dotnet.aspnetcore",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3bd921533b3369099debfee8f5b1c608",
+      "links": [],
+      "anchors": {
+        "error-handling": {
+          "type": "header",
+          "text": "Error Handling",
+          "value": "error-handling",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "tag-helpers": {
+          "type": "header",
+          "text": "Tag Helpers",
+          "value": "tag-helpers",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "5W7I4xTTvdOzhhSYrsX0U": {
+      "id": "5W7I4xTTvdOzhhSYrsX0U",
+      "title": ".NET Performance",
+      "desc": "",
+      "updated": 1733227718841,
+      "created": 1634155706834,
+      "custom": {},
+      "fname": "dotnet.perf",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "129acf0e8db0ee128b27ec4cfbb6c81a",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "dotnet.perf",
+            "id": "5W7I4xTTvdOzhhSYrsX0U",
+            "vaultName": "vault"
+          },
+          "value": "perf",
+          "position": {
+            "start": {
+              "line": 38,
+              "column": 3,
+              "offset": 1675
+            },
+            "end": {
+              "line": 38,
+              "column": 11,
+              "offset": 1683
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "perf"
+          }
+        }
+      ],
+      "anchors": {
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "free": {
+          "type": "header",
+          "text": "Free",
+          "value": "free",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "paid": {
+          "type": "header",
+          "text": "Paid",
+          "value": "paid",
+          "line": 18,
+          "column": 0,
+          "depth": 3
+        },
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        },
+        "books": {
+          "type": "header",
+          "text": "Books",
+          "value": "books",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        },
+        "other": {
+          "type": "header",
+          "text": "Other",
+          "value": "other",
+          "line": 38,
+          "column": 0,
+          "depth": 2
+        },
+        "related": {
+          "type": "header",
+          "text": "Related",
+          "value": "related",
+          "line": 42,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "HnMQ0fAlQSKTme9oduhAK": {
+      "id": "HnMQ0fAlQSKTme9oduhAK",
+      "title": ".NET Graphics",
+      "desc": "",
+      "updated": 1628610381978,
+      "created": 1628610349749,
+      "custom": {},
+      "fname": "dotnet.graphics",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "d385bfa4b1e2a550fd10cdb72fdf94f8",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "3ofq57tss0rp7jviw5gckya": {
+      "id": "3ofq57tss0rp7jviw5gckya",
+      "title": ".NET Framework",
+      "desc": "",
+      "updated": 1651482535501,
+      "created": 1651481330355,
+      "custom": {},
+      "fname": "dotnet.framework",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "30a213ecdf3f6fd1ef52eb91dac87d9e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "eWyFqigLrerv2sntLlDEd": {
+      "id": "eWyFqigLrerv2sntLlDEd",
+      "title": ".NET Build Automation",
+      "desc": "",
+      "updated": 1675421123162,
+      "created": 1632079433089,
+      "custom": {},
+      "fname": "dotnet.build",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "019edc075b3d526b412b76b87c74e444",
+      "links": [],
+      "anchors": {
+        "platforms": {
+          "type": "header",
+          "text": "Platforms",
+          "value": "platforms",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "6PLkATyxbebndxZN16uIu",
+      "data": {}
+    },
+    "p8niaesglklrdcjloyvdx72": {
+      "id": "p8niaesglklrdcjloyvdx72",
+      "title": "Docker",
+      "desc": "",
+      "updated": 1709126241096,
+      "created": 1709126212131,
+      "custom": {},
+      "fname": "docker",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e1d2daf82bbf524c80286fb65de694df",
+      "links": [],
+      "anchors": {
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "kygx0n3whew1nclpl9t2yez": {
+      "id": "kygx0n3whew1nclpl9t2yez",
+      "title": "Programming",
+      "desc": "",
+      "updated": 1731512275364,
+      "created": 1655244708709,
+      "custom": {},
+      "fname": "dev",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9fbd1c5f188848984576be91aa280503",
+      "links": [],
+      "anchors": {
+        "paradigms": {
+          "type": "header",
+          "text": "Paradigms",
+          "value": "paradigms",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "reactive-programming": {
+          "type": "header",
+          "text": "Reactive Programming",
+          "value": "reactive-programming",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "visual-studio-code-extensions": {
+          "type": "header",
+          "text": "Visual Studio Code Extensions",
+          "value": "visual-studio-code-extensions",
+          "line": 21,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "FXiGVbQSE9ljTVesIkNdE"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "FXiGVbQSE9ljTVesIkNdE": {
+      "id": "FXiGVbQSE9ljTVesIkNdE",
+      "title": "Programming Languages",
+      "desc": "",
+      "updated": 1637267311537,
+      "created": 1637266800305,
+      "custom": {},
+      "fname": "dev.langs",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ff4779a6cc7a6d278ff639399996a883",
+      "links": [],
+      "anchors": {
+        "languages-of-interest": {
+          "type": "header",
+          "text": "Languages of Interest",
+          "value": "languages-of-interest",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "nVF9Zn3M6TsizjY4",
+        "jb9ZiGykbV9G6wPW"
+      ],
+      "parent": "kygx0n3whew1nclpl9t2yez",
+      "data": {}
+    },
+    "jb9ZiGykbV9G6wPW": {
+      "id": "jb9ZiGykbV9G6wPW",
+      "title": "R",
+      "desc": "",
+      "updated": 1678967524827,
+      "created": 1627912958896,
+      "custom": {},
+      "fname": "dev.langs.r",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1ecba834bf598c093edfdd06a06d3246",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "dev.langs.r",
+            "id": "jb9ZiGykbV9G6wPW",
+            "vaultName": "vault"
+          },
+          "value": "dev.langs.julia",
+          "position": {
+            "start": {
+              "line": 28,
+              "column": 3,
+              "offset": 829
+            },
+            "end": {
+              "line": 28,
+              "column": 22,
+              "offset": 848
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dev.langs.julia"
+          }
+        },
+        {
+          "from": {
+            "fname": "dev.langs.julia",
+            "id": "nVF9Zn3M6TsizjY4",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 3,
+              "offset": 1046
+            },
+            "end": {
+              "line": 34,
+              "column": 18,
+              "offset": 1061
+            },
+            "indent": []
+          },
+          "value": "dev.langs.r"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "courses": {
+          "type": "header",
+          "text": "Courses",
+          "value": "courses",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "related": {
+          "type": "header",
+          "text": "Related",
+          "value": "related",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "FXiGVbQSE9ljTVesIkNdE",
+      "data": {}
+    },
+    "nVF9Zn3M6TsizjY4": {
+      "id": "nVF9Zn3M6TsizjY4",
+      "title": "Julia",
+      "desc": "",
+      "updated": 1637267466319,
+      "created": 1627928802977,
+      "custom": {},
+      "fname": "dev.langs.julia",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "478df06935f1b0dec62baa3f472f8dd3",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "dev.langs.julia",
+            "id": "nVF9Zn3M6TsizjY4",
+            "vaultName": "vault"
+          },
+          "value": "dev.langs.r",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 3,
+              "offset": 1046
+            },
+            "end": {
+              "line": 34,
+              "column": 18,
+              "offset": 1061
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dev.langs.r"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "dev.langs.julia",
+            "id": "nVF9Zn3M6TsizjY4",
+            "vaultName": "vault"
+          },
+          "value": "math.statistics",
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 3,
+              "offset": 1064
+            },
+            "end": {
+              "line": 35,
+              "column": 22,
+              "offset": 1083
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "math.statistics"
+          }
+        },
+        {
+          "from": {
+            "fname": "dev.langs.r",
+            "id": "jb9ZiGykbV9G6wPW",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 28,
+              "column": 3,
+              "offset": 829
+            },
+            "end": {
+              "line": 28,
+              "column": 22,
+              "offset": 848
+            },
+            "indent": []
+          },
+          "value": "dev.langs.julia"
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "courses": {
+          "type": "header",
+          "text": "Courses",
+          "value": "courses",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        },
+        "related": {
+          "type": "header",
+          "text": "Related",
+          "value": "related",
+          "line": 38,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "FXiGVbQSE9ljTVesIkNdE",
+      "data": {}
+    },
+    "4yhbwwlogzhmx2hx0hcerss": {
+      "id": "4yhbwwlogzhmx2hx0hcerss",
+      "title": "Data",
+      "desc": "",
+      "updated": 1721821844778,
+      "created": 1655239144080,
+      "custom": {},
+      "fname": "data",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2148af1743c34c421d1d8f03df49690d",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "8DdEtVqPnxxNY98B",
+        "siWumJ0mzBqgY4IN",
+        "g9xq8spm51qazfjnouptjxs",
+        "kqecoboeiqi383o8wie6poy"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "kqecoboeiqi383o8wie6poy": {
+      "id": "kqecoboeiqi383o8wie6poy",
+      "title": "SQL",
+      "desc": "",
+      "updated": 1664796609314,
+      "created": 1664796504467,
+      "custom": {},
+      "fname": "data.sql",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "63ea6ee249f2f2e5146facce6c7afba7",
+      "links": [],
+      "anchors": {
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "kbM5SZpei9eym6MP"
+      ],
+      "parent": "4yhbwwlogzhmx2hx0hcerss",
+      "data": {}
+    },
+    "kbM5SZpei9eym6MP": {
+      "id": "kbM5SZpei9eym6MP",
+      "title": "SQLite",
+      "desc": "",
+      "updated": 1728468782707,
+      "created": 1627592830517,
+      "custom": {},
+      "fname": "data.sql.sqlite",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "daa5cdd5d6a883840a8b10808c0a36e2",
+      "links": [],
+      "anchors": {
+        "learning": {
+          "type": "header",
+          "text": "Learning",
+          "value": "learning",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "providers": {
+          "type": "header",
+          "text": "Providers",
+          "value": "providers",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "kqecoboeiqi383o8wie6poy",
+      "data": {}
+    },
+    "g9xq8spm51qazfjnouptjxs": {
+      "id": "g9xq8spm51qazfjnouptjxs",
+      "title": "NoSQL",
+      "desc": "",
+      "updated": 1688648017380,
+      "created": 1688647989618,
+      "custom": {},
+      "fname": "data.nosql",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e3d4dc15ece252f6924425b993695622",
+      "links": [],
+      "anchors": {
+        "mongodb": {
+          "type": "header",
+          "text": "MongoDB",
+          "value": "mongodb",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4yhbwwlogzhmx2hx0hcerss",
+      "data": {}
+    },
+    "siWumJ0mzBqgY4IN": {
+      "id": "siWumJ0mzBqgY4IN",
+      "title": "ETL",
+      "desc": "",
+      "updated": 1627907890084,
+      "created": 1627907874857,
+      "custom": {},
+      "fname": "data.etl",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "426ce0c4efae048186c969f5f84f7dae",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4yhbwwlogzhmx2hx0hcerss",
+      "data": {}
+    },
+    "8DdEtVqPnxxNY98B": {
+      "id": "8DdEtVqPnxxNY98B",
+      "title": "Data Streaming",
+      "desc": "",
+      "updated": 1627909018839,
+      "created": 1627907976356,
+      "custom": {},
+      "fname": "data.streaming",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2d02dd3e9bc6c54ea54be337ebd6d9b1",
+      "links": [],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4yhbwwlogzhmx2hx0hcerss",
+      "data": {}
+    },
+    "wbzvfnfjnylw5itg6fuu72z": {
+      "id": "wbzvfnfjnylw5itg6fuu72z",
+      "title": "Cloud Computing",
+      "desc": "",
+      "updated": 1671623725080,
+      "created": 1651955627310,
+      "custom": {},
+      "fname": "cloud",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1bb524cf8ffc7d1996faf4a49e8f5e47",
+      "links": [],
+      "anchors": {
+        "platforms": {
+          "type": "header",
+          "text": "Platforms",
+          "value": "platforms",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "emulators": {
+          "type": "header",
+          "text": "Emulators",
+          "value": "emulators",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "documentation": {
+          "type": "header",
+          "text": "Documentation",
+          "value": "documentation",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "blogs": {
+          "type": "header",
+          "text": "Blogs",
+          "value": "blogs",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "hy8hppxk0lf0acxj26mlioq"
+      ],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "hy8hppxk0lf0acxj26mlioq": {
+      "id": "hy8hppxk0lf0acxj26mlioq",
+      "title": "Amazon Web Services (AWS)",
+      "desc": "",
+      "updated": 1678274715496,
+      "created": 1678273992259,
+      "custom": {},
+      "fname": "cloud.aws",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "00aee07e8116d0896d36f1befbdbcd58",
+      "links": [],
+      "anchors": {
+        "spot-instances": {
+          "type": "header",
+          "text": "Spot Instances",
+          "value": "spot-instances",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "wbzvfnfjnylw5itg6fuu72z",
+      "data": {}
+    },
+    "nzaIGEJIdgvpLwJH7ymKe": {
+      "id": "nzaIGEJIdgvpLwJH7ymKe",
+      "title": "Books",
+      "desc": "",
+      "updated": 1734133255269,
+      "created": 1628105448207,
+      "custom": {},
+      "fname": "books",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "465afc971510d61ecdb77fcab03d56d7",
+      "links": [],
+      "anchors": {
+        "cookbooks": {
+          "type": "header",
+          "text": "Cookbooks",
+          "value": "cookbooks",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "history": {
+          "type": "header",
+          "text": "History",
+          "value": "history",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "law": {
+          "type": "header",
+          "text": "Law",
+          "value": "law",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "science": {
+          "type": "header",
+          "text": "Science",
+          "value": "science",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "technology": {
+          "type": "header",
+          "text": "Technology",
+          "value": "technology",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    },
+    "dkfh94o63alb7tbsand0x7y": {
+      "id": "dkfh94o63alb7tbsand0x7y",
+      "title": "Biology",
+      "desc": "",
+      "updated": 1667310024625,
+      "created": 1667309305243,
+      "custom": {},
+      "fname": "biology",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "660682fb276de195e17f72d90ae129a6",
+      "links": [],
+      "anchors": {
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "articles": {
+          "type": "header",
+          "text": "Articles",
+          "value": "articles",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "RnFytXiQFrHboGg6",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "RnFytXiQFrHboGg6",
+      "title": "Root",
+      "desc": "",
+      "updated": 1628096509181,
+      "created": 1627503796059,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "206dff34b187a0c86690231f5ab89590",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "dkfh94o63alb7tbsand0x7y",
+        "nzaIGEJIdgvpLwJH7ymKe",
+        "wbzvfnfjnylw5itg6fuu72z",
+        "4yhbwwlogzhmx2hx0hcerss",
+        "kygx0n3whew1nclpl9t2yez",
+        "p8niaesglklrdcjloyvdx72",
+        "6PLkATyxbebndxZN16uIu",
+        "TPJzHuR1eliPxlkDoCzkB",
+        "14k92nioe3867mf7jurdcx2",
+        "CsGGFbjhwTVGO62G",
+        "cjk8rvm17udhe76byyuy2uo",
+        "bgxgiiq7eh7vhak8r9d9vlo",
+        "uBtE3AOKicb36PDES0O7f",
+        "89akqrwd8seeq56c76udd1j",
+        "GbJ3FISGIQDPWGfsK9yb2",
+        "n3ihqwcl6p4824c3o5gc48q",
+        "oo6bpdb8enqslzc0l1bneif",
+        "97jmuenrl8j8w0cg6zwb5yo",
+        "2zzdvob2h82f9c1qt2pwtmk",
+        "Otb17Tvp1g9j7aUs1drP9",
+        "epeaq0sf7bp5w7cospgqvvo",
+        "9t2cbpqc1vofuqkwlmbttky",
+        "0hka7bvryivlmsdotws2m83",
+        "0yfwjxnpstpzg9s914orvv9",
+        "t9ayf0roz6s5r6sknol7rrc",
+        "t58wEmhAtf1GlHmO"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n## Welcome to Dendron\n\nThis is the root of your Dendron vault.\nIf you decide to publish your entire vault, this will be your landing page.\nYou are free to customize any part of this page except the front-matter on top.\n\n## References\n\n- [Dendron Wiki](https://wiki.dendron.so/)\n- [Publishing Dendron](https://wiki.dendron.so/notes/579e379b-3eca-4676-b51c-c66eb26a11b8.html)\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "RnFytXiQFrHboGg6",
+    "title": "Root",
+    "desc": "",
+    "updated": 1628096509181,
+    "created": 1627503796059,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "206dff34b187a0c86690231f5ab89590",
+    "links": [],
+    "anchors": {
+      "welcome-to-dendron": {
+        "type": "header",
+        "text": "Welcome to Dendron",
+        "value": "welcome-to-dendron",
+        "line": 8,
+        "column": 0,
+        "depth": 2
+      },
+      "references": {
+        "type": "header",
+        "text": "References",
+        "value": "references",
+        "line": 14,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "dkfh94o63alb7tbsand0x7y",
+      "nzaIGEJIdgvpLwJH7ymKe",
+      "wbzvfnfjnylw5itg6fuu72z",
+      "4yhbwwlogzhmx2hx0hcerss",
+      "kygx0n3whew1nclpl9t2yez",
+      "p8niaesglklrdcjloyvdx72",
+      "6PLkATyxbebndxZN16uIu",
+      "TPJzHuR1eliPxlkDoCzkB",
+      "14k92nioe3867mf7jurdcx2",
+      "CsGGFbjhwTVGO62G",
+      "cjk8rvm17udhe76byyuy2uo",
+      "bgxgiiq7eh7vhak8r9d9vlo",
+      "uBtE3AOKicb36PDES0O7f",
+      "89akqrwd8seeq56c76udd1j",
+      "GbJ3FISGIQDPWGfsK9yb2",
+      "n3ihqwcl6p4824c3o5gc48q",
+      "oo6bpdb8enqslzc0l1bneif",
+      "97jmuenrl8j8w0cg6zwb5yo",
+      "2zzdvob2h82f9c1qt2pwtmk",
+      "Otb17Tvp1g9j7aUs1drP9",
+      "epeaq0sf7bp5w7cospgqvvo",
+      "9t2cbpqc1vofuqkwlmbttky",
+      "0hka7bvryivlmsdotws2m83",
+      "0yfwjxnpstpzg9s914orvv9",
+      "t9ayf0roz6s5r6sknol7rrc",
+      "t58wEmhAtf1GlHmO"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n## Welcome to Dendron\n\nThis is the root of your Dendron vault.\nIf you decide to publish your entire vault, this will be your landing page.\nYou are free to customize any part of this page except the front-matter on top.\n\n## References\n\n- [Dendron Wiki](https://wiki.dendron.so/)\n- [Publishing Dendron](https://wiki.dendron.so/notes/579e379b-3eca-4676-b51c-c66eb26a11b8.html)\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    },
+    {
+      "fsPath": "templates",
+      "seed": "dendron.templates",
+      "name": "dendron.templates"
+    }
+  ]
+}

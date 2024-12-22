@@ -1,0 +1,931 @@
+{
+  "roots": [
+    {
+      "key": "dkfh94o63alb7tbsand0x7y",
+      "title": "Biology",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "nzaIGEJIdgvpLwJH7ymKe",
+      "title": "Books",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "wbzvfnfjnylw5itg6fuu72z",
+      "title": "Cloud Computing",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "hy8hppxk0lf0acxj26mlioq",
+          "title": "Amazon Web Services (AWS)",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "0hka7bvryivlmsdotws2m83",
+      "title": "Computing",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "JkCIqQFNW8bhKSQr0g9B4",
+          "title": "Cluster Computing",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "feg2BLgaTj3PPvJ9jpIxJ",
+              "title": "Rocks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "4yhbwwlogzhmx2hx0hcerss",
+      "title": "Data",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "siWumJ0mzBqgY4IN",
+          "title": "ETL",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "g9xq8spm51qazfjnouptjxs",
+          "title": "NoSQL",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "kqecoboeiqi383o8wie6poy",
+          "title": "SQL",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "kbM5SZpei9eym6MP",
+              "title": "SQLite",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "8DdEtVqPnxxNY98B",
+          "title": "Data Streaming",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "0yfwjxnpstpzg9s914orvv9",
+      "title": "Design",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "l9pz6h52ttgrkf2e80b9pml",
+          "title": "Reverse Engineering",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "3i004e582ohb89twv7pys4h",
+          "title": "Software Design",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "uBejGmppV0oRIcuK7WCe6",
+          "title": "Design Thinking",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "kygx0n3whew1nclpl9t2yez",
+      "title": "Programming",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "FXiGVbQSE9ljTVesIkNdE",
+          "title": "Programming Languages",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "nVF9Zn3M6TsizjY4",
+              "title": "Julia",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "jb9ZiGykbV9G6wPW",
+              "title": "R",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "p8niaesglklrdcjloyvdx72",
+      "title": "Docker",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "6PLkATyxbebndxZN16uIu",
+      "title": ".NET",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "40y0my9utvkvlmb1c16gty7",
+          "title": "ASP.NET Core",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "wdcfkr2pxfj3amtm402a9dw",
+          "title": "Asynchronous Programming",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "eWyFqigLrerv2sntLlDEd",
+          "title": ".NET Build Automation",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "v0643o2lui49s9o4rlwn339",
+          "title": "C#",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "3ofq57tss0rp7jviw5gckya",
+          "title": ".NET Framework",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "drd3iuss2ust2mtspl52nbi",
+          "title": "Fundamentals",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "HnMQ0fAlQSKTme9oduhAK",
+          "title": ".NET Graphics",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "nyx7bz80r362cu163vhwqyk",
+          "title": "Libraries & Frameworks",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "6resp9vacruut3cb55u8vq6",
+          "title": "Mono",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "1tnmkybytnxzutdpupgg6yy",
+          "title": "NuGet",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "3oytnfpj9ac2l576g899hsq",
+          "title": "Orchard Core",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "5W7I4xTTvdOzhhSYrsX0U",
+          "title": ".NET Performance",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "hm5iuswkbgnx4thp4hbn9dj",
+          "title": "Threading",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "wgogt1yj3ubvgwaexanpfnp",
+          "title": "Visual Studio",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "TPJzHuR1eliPxlkDoCzkB",
+      "title": "Knowledge",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "14k92nioe3867mf7jurdcx2",
+      "title": "Logging",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "CsGGFbjhwTVGO62G",
+      "title": "Mathematics",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "kw34y01f5t0y08e1izi31xq",
+          "title": "Calculus",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "5b1346uywb1cnxlyzbbp49d",
+          "title": "Fourier",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "325aFTYOxUsFGkmcCTWsw",
+              "title": "Fast Fourier Transform",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "yJ7ZC8fRJEhNiHJnX1Lqf",
+          "title": "Probability Theory",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "GRk7EMmGTHXavJjs",
+          "title": "Statistics",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "Bnaf2drkF7U0XCtS",
+              "title": "Kernel Density Estimation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "nyHHx7JC4w0JEYDeTaokL",
+              "title": "Median",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "5c71gfxyw9a31g5a4agqnpm",
+              "title": "Plots",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "tEc2wvRMq18OwI0M9LGHV",
+                  "title": "Histogram",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "XUo1okkaPORKj9g9d1trk",
+                  "title": "Scatter Plots",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "xvhUvJgMjIWBVEmo",
+                  "title": "Violin Plot",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "sTdRsrFrJqbJ4sSS",
+                  "title": "Volcano Plot",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "cjk8rvm17udhe76byyuy2uo",
+      "title": "Miscellaneous",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "bgxgiiq7eh7vhak8r9d9vlo",
+      "title": "Networking",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "5dvxypstb5br2sfsguy8jlw",
+          "title": "FTP",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "QTZbmaZwzYKyo69D",
+          "title": "gRPC",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "b9xeqvhzcsb0dv14od9ngly",
+          "title": "HTTP",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "uBtE3AOKicb36PDES0O7f",
+      "title": "Open Source",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "89akqrwd8seeq56c76udd1j",
+      "title": "Operating Systems",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "cdttu4102o6qdte9u3lvsh6",
+          "title": "Linux",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "654x4v3qhrhjvx8zfpues14",
+          "title": "macOS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "apeomt2qjju3zp75epvudcs",
+          "title": "Windows",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "gxsndw2jm8a3bxkm2b528eu",
+          "title": "Windows Subsystem for Linux",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "GbJ3FISGIQDPWGfsK9yb2",
+      "title": "Performance",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "n3ihqwcl6p4824c3o5gc48q",
+      "title": "Regular Expressions",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "oo6bpdb8enqslzc0l1bneif",
+      "title": "Scripting",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "yltbg1cwtttuy5wqwqn93cj",
+          "title": "PowerShell",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "97jmuenrl8j8w0cg6zwb5yo",
+      "title": "Search Engineering",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "2zzdvob2h82f9c1qt2pwtmk",
+      "title": "Security",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "1mwohii1eaor1zciqmp0otm",
+          "title": "Certificates",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "g04m5puknpyev81g4295y0b",
+          "title": "OAuth",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "72a6wdfrjzjeadl3usg19lx",
+          "title": "Privacy",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "4wbd0l8fqm9rn2vr2xv0dt7",
+          "title": "Single Sign-On (SSO)",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "ygmh2n71goc58di3z942tms",
+          "title": "Syslog",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "t58wEmhAtf1GlHmO",
+      "title": "Templates",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "dendron.templates",
+      "children": [
+        {
+          "key": "hXyoNOiZ0tRepcQ6Mw79Q",
+          "title": "Contacts",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "dendron.templates",
+          "children": []
+        },
+        {
+          "key": "seitr7b8nu0kc017j1hd01v",
+          "title": "Journal",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "dendron.templates",
+          "children": [
+            {
+              "key": "4lpcmcajbuq13dygye9fkbj",
+              "title": "Daily",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "dendron.templates",
+              "children": [
+                {
+                  "key": "x4bdzc7HETP9CDVGJJaHT",
+                  "title": "The Five Minute Journal",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "dendron.templates",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "dEQX87VBTFJdqBM0",
+          "title": "Project",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "dendron.templates",
+          "children": [
+            {
+              "key": "SYXrPmslg4yLWVDTB3J7d",
+              "title": "Writing",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "dendron.templates",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "drpadXCVWfcVmnB5rwcdf",
+          "title": "Task List",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "dendron.templates",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "t9ayf0roz6s5r6sknol7rrc",
+      "title": "Versioning",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "LTcL1fK4Jo66ETaWeK1FK",
+          "title": "Git",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "Otb17Tvp1g9j7aUs1drP9",
+      "title": "Virtualization",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "epeaq0sf7bp5w7cospgqvvo",
+      "title": "Web Development",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "ixu0s8y0ox5hd04jqfg2f81",
+          "title": "Content Management Systems",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "h1ajiwxd39jb49lqomd4rzq",
+          "title": "HTTP",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "r8cp764pnyr1yox2dfpt3uo",
+          "title": "Time to First Byte (TTFB)",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "9t2cbpqc1vofuqkwlmbttky",
+      "title": "Writing",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    }
+  ],
+  "child2parent": {
+    "dkfh94o63alb7tbsand0x7y": null,
+    "nzaIGEJIdgvpLwJH7ymKe": null,
+    "wbzvfnfjnylw5itg6fuu72z": null,
+    "hy8hppxk0lf0acxj26mlioq": "wbzvfnfjnylw5itg6fuu72z",
+    "0hka7bvryivlmsdotws2m83": null,
+    "JkCIqQFNW8bhKSQr0g9B4": "0hka7bvryivlmsdotws2m83",
+    "feg2BLgaTj3PPvJ9jpIxJ": "JkCIqQFNW8bhKSQr0g9B4",
+    "4yhbwwlogzhmx2hx0hcerss": null,
+    "siWumJ0mzBqgY4IN": "4yhbwwlogzhmx2hx0hcerss",
+    "g9xq8spm51qazfjnouptjxs": "4yhbwwlogzhmx2hx0hcerss",
+    "kqecoboeiqi383o8wie6poy": "4yhbwwlogzhmx2hx0hcerss",
+    "kbM5SZpei9eym6MP": "kqecoboeiqi383o8wie6poy",
+    "8DdEtVqPnxxNY98B": "4yhbwwlogzhmx2hx0hcerss",
+    "0yfwjxnpstpzg9s914orvv9": null,
+    "l9pz6h52ttgrkf2e80b9pml": "0yfwjxnpstpzg9s914orvv9",
+    "3i004e582ohb89twv7pys4h": "0yfwjxnpstpzg9s914orvv9",
+    "uBejGmppV0oRIcuK7WCe6": "0yfwjxnpstpzg9s914orvv9",
+    "kygx0n3whew1nclpl9t2yez": null,
+    "FXiGVbQSE9ljTVesIkNdE": "kygx0n3whew1nclpl9t2yez",
+    "nVF9Zn3M6TsizjY4": "FXiGVbQSE9ljTVesIkNdE",
+    "jb9ZiGykbV9G6wPW": "FXiGVbQSE9ljTVesIkNdE",
+    "p8niaesglklrdcjloyvdx72": null,
+    "6PLkATyxbebndxZN16uIu": null,
+    "40y0my9utvkvlmb1c16gty7": "6PLkATyxbebndxZN16uIu",
+    "wdcfkr2pxfj3amtm402a9dw": "6PLkATyxbebndxZN16uIu",
+    "eWyFqigLrerv2sntLlDEd": "6PLkATyxbebndxZN16uIu",
+    "v0643o2lui49s9o4rlwn339": "6PLkATyxbebndxZN16uIu",
+    "3ofq57tss0rp7jviw5gckya": "6PLkATyxbebndxZN16uIu",
+    "drd3iuss2ust2mtspl52nbi": "6PLkATyxbebndxZN16uIu",
+    "HnMQ0fAlQSKTme9oduhAK": "6PLkATyxbebndxZN16uIu",
+    "nyx7bz80r362cu163vhwqyk": "6PLkATyxbebndxZN16uIu",
+    "6resp9vacruut3cb55u8vq6": "6PLkATyxbebndxZN16uIu",
+    "1tnmkybytnxzutdpupgg6yy": "6PLkATyxbebndxZN16uIu",
+    "3oytnfpj9ac2l576g899hsq": "6PLkATyxbebndxZN16uIu",
+    "5W7I4xTTvdOzhhSYrsX0U": "6PLkATyxbebndxZN16uIu",
+    "hm5iuswkbgnx4thp4hbn9dj": "6PLkATyxbebndxZN16uIu",
+    "wgogt1yj3ubvgwaexanpfnp": "6PLkATyxbebndxZN16uIu",
+    "TPJzHuR1eliPxlkDoCzkB": null,
+    "14k92nioe3867mf7jurdcx2": null,
+    "CsGGFbjhwTVGO62G": null,
+    "kw34y01f5t0y08e1izi31xq": "CsGGFbjhwTVGO62G",
+    "5b1346uywb1cnxlyzbbp49d": "CsGGFbjhwTVGO62G",
+    "325aFTYOxUsFGkmcCTWsw": "5b1346uywb1cnxlyzbbp49d",
+    "yJ7ZC8fRJEhNiHJnX1Lqf": "CsGGFbjhwTVGO62G",
+    "GRk7EMmGTHXavJjs": "CsGGFbjhwTVGO62G",
+    "Bnaf2drkF7U0XCtS": "GRk7EMmGTHXavJjs",
+    "nyHHx7JC4w0JEYDeTaokL": "GRk7EMmGTHXavJjs",
+    "5c71gfxyw9a31g5a4agqnpm": "GRk7EMmGTHXavJjs",
+    "tEc2wvRMq18OwI0M9LGHV": "5c71gfxyw9a31g5a4agqnpm",
+    "XUo1okkaPORKj9g9d1trk": "5c71gfxyw9a31g5a4agqnpm",
+    "xvhUvJgMjIWBVEmo": "5c71gfxyw9a31g5a4agqnpm",
+    "sTdRsrFrJqbJ4sSS": "5c71gfxyw9a31g5a4agqnpm",
+    "cjk8rvm17udhe76byyuy2uo": null,
+    "bgxgiiq7eh7vhak8r9d9vlo": null,
+    "5dvxypstb5br2sfsguy8jlw": "bgxgiiq7eh7vhak8r9d9vlo",
+    "QTZbmaZwzYKyo69D": "bgxgiiq7eh7vhak8r9d9vlo",
+    "b9xeqvhzcsb0dv14od9ngly": "bgxgiiq7eh7vhak8r9d9vlo",
+    "uBtE3AOKicb36PDES0O7f": null,
+    "89akqrwd8seeq56c76udd1j": null,
+    "cdttu4102o6qdte9u3lvsh6": "89akqrwd8seeq56c76udd1j",
+    "654x4v3qhrhjvx8zfpues14": "89akqrwd8seeq56c76udd1j",
+    "apeomt2qjju3zp75epvudcs": "89akqrwd8seeq56c76udd1j",
+    "gxsndw2jm8a3bxkm2b528eu": "89akqrwd8seeq56c76udd1j",
+    "GbJ3FISGIQDPWGfsK9yb2": null,
+    "n3ihqwcl6p4824c3o5gc48q": null,
+    "oo6bpdb8enqslzc0l1bneif": null,
+    "yltbg1cwtttuy5wqwqn93cj": "oo6bpdb8enqslzc0l1bneif",
+    "97jmuenrl8j8w0cg6zwb5yo": null,
+    "2zzdvob2h82f9c1qt2pwtmk": null,
+    "1mwohii1eaor1zciqmp0otm": "2zzdvob2h82f9c1qt2pwtmk",
+    "g04m5puknpyev81g4295y0b": "2zzdvob2h82f9c1qt2pwtmk",
+    "72a6wdfrjzjeadl3usg19lx": "2zzdvob2h82f9c1qt2pwtmk",
+    "4wbd0l8fqm9rn2vr2xv0dt7": "2zzdvob2h82f9c1qt2pwtmk",
+    "ygmh2n71goc58di3z942tms": "2zzdvob2h82f9c1qt2pwtmk",
+    "t58wEmhAtf1GlHmO": null,
+    "hXyoNOiZ0tRepcQ6Mw79Q": "t58wEmhAtf1GlHmO",
+    "seitr7b8nu0kc017j1hd01v": "t58wEmhAtf1GlHmO",
+    "4lpcmcajbuq13dygye9fkbj": "seitr7b8nu0kc017j1hd01v",
+    "x4bdzc7HETP9CDVGJJaHT": "4lpcmcajbuq13dygye9fkbj",
+    "dEQX87VBTFJdqBM0": "t58wEmhAtf1GlHmO",
+    "SYXrPmslg4yLWVDTB3J7d": "dEQX87VBTFJdqBM0",
+    "drpadXCVWfcVmnB5rwcdf": "t58wEmhAtf1GlHmO",
+    "t9ayf0roz6s5r6sknol7rrc": null,
+    "LTcL1fK4Jo66ETaWeK1FK": "t9ayf0roz6s5r6sknol7rrc",
+    "Otb17Tvp1g9j7aUs1drP9": null,
+    "epeaq0sf7bp5w7cospgqvvo": null,
+    "ixu0s8y0ox5hd04jqfg2f81": "epeaq0sf7bp5w7cospgqvvo",
+    "h1ajiwxd39jb49lqomd4rzq": "epeaq0sf7bp5w7cospgqvvo",
+    "r8cp764pnyr1yox2dfpt3uo": "epeaq0sf7bp5w7cospgqvvo",
+    "9t2cbpqc1vofuqkwlmbttky": null
+  },
+  "notesLabelById": {
+    "dkfh94o63alb7tbsand0x7y": "Biology",
+    "nzaIGEJIdgvpLwJH7ymKe": "Books",
+    "wbzvfnfjnylw5itg6fuu72z": "Cloud Computing",
+    "hy8hppxk0lf0acxj26mlioq": "Amazon Web Services (AWS)",
+    "0hka7bvryivlmsdotws2m83": "Computing",
+    "JkCIqQFNW8bhKSQr0g9B4": "Cluster Computing",
+    "feg2BLgaTj3PPvJ9jpIxJ": "Rocks",
+    "4yhbwwlogzhmx2hx0hcerss": "Data",
+    "siWumJ0mzBqgY4IN": "ETL",
+    "g9xq8spm51qazfjnouptjxs": "NoSQL",
+    "kqecoboeiqi383o8wie6poy": "SQL",
+    "kbM5SZpei9eym6MP": "SQLite",
+    "8DdEtVqPnxxNY98B": "Data Streaming",
+    "0yfwjxnpstpzg9s914orvv9": "Design",
+    "l9pz6h52ttgrkf2e80b9pml": "Reverse Engineering",
+    "3i004e582ohb89twv7pys4h": "Software Design",
+    "uBejGmppV0oRIcuK7WCe6": "Design Thinking",
+    "kygx0n3whew1nclpl9t2yez": "Programming",
+    "FXiGVbQSE9ljTVesIkNdE": "Programming Languages",
+    "nVF9Zn3M6TsizjY4": "Julia",
+    "jb9ZiGykbV9G6wPW": "R",
+    "p8niaesglklrdcjloyvdx72": "Docker",
+    "6PLkATyxbebndxZN16uIu": ".NET",
+    "40y0my9utvkvlmb1c16gty7": "ASP.NET Core",
+    "wdcfkr2pxfj3amtm402a9dw": "Asynchronous Programming",
+    "eWyFqigLrerv2sntLlDEd": ".NET Build Automation",
+    "v0643o2lui49s9o4rlwn339": "C#",
+    "3ofq57tss0rp7jviw5gckya": ".NET Framework",
+    "drd3iuss2ust2mtspl52nbi": "Fundamentals",
+    "HnMQ0fAlQSKTme9oduhAK": ".NET Graphics",
+    "nyx7bz80r362cu163vhwqyk": "Libraries & Frameworks",
+    "6resp9vacruut3cb55u8vq6": "Mono",
+    "1tnmkybytnxzutdpupgg6yy": "NuGet",
+    "3oytnfpj9ac2l576g899hsq": "Orchard Core",
+    "5W7I4xTTvdOzhhSYrsX0U": ".NET Performance",
+    "hm5iuswkbgnx4thp4hbn9dj": "Threading",
+    "wgogt1yj3ubvgwaexanpfnp": "Visual Studio",
+    "TPJzHuR1eliPxlkDoCzkB": "Knowledge",
+    "14k92nioe3867mf7jurdcx2": "Logging",
+    "CsGGFbjhwTVGO62G": "Mathematics",
+    "kw34y01f5t0y08e1izi31xq": "Calculus",
+    "5b1346uywb1cnxlyzbbp49d": "Fourier",
+    "325aFTYOxUsFGkmcCTWsw": "Fast Fourier Transform",
+    "yJ7ZC8fRJEhNiHJnX1Lqf": "Probability Theory",
+    "GRk7EMmGTHXavJjs": "Statistics",
+    "Bnaf2drkF7U0XCtS": "Kernel Density Estimation",
+    "nyHHx7JC4w0JEYDeTaokL": "Median",
+    "5c71gfxyw9a31g5a4agqnpm": "Plots",
+    "tEc2wvRMq18OwI0M9LGHV": "Histogram",
+    "XUo1okkaPORKj9g9d1trk": "Scatter Plots",
+    "xvhUvJgMjIWBVEmo": "Violin Plot",
+    "sTdRsrFrJqbJ4sSS": "Volcano Plot",
+    "cjk8rvm17udhe76byyuy2uo": "Miscellaneous",
+    "bgxgiiq7eh7vhak8r9d9vlo": "Networking",
+    "5dvxypstb5br2sfsguy8jlw": "FTP",
+    "QTZbmaZwzYKyo69D": "gRPC",
+    "b9xeqvhzcsb0dv14od9ngly": "HTTP",
+    "uBtE3AOKicb36PDES0O7f": "Open Source",
+    "89akqrwd8seeq56c76udd1j": "Operating Systems",
+    "cdttu4102o6qdte9u3lvsh6": "Linux",
+    "654x4v3qhrhjvx8zfpues14": "macOS",
+    "apeomt2qjju3zp75epvudcs": "Windows",
+    "gxsndw2jm8a3bxkm2b528eu": "Windows Subsystem for Linux",
+    "GbJ3FISGIQDPWGfsK9yb2": "Performance",
+    "n3ihqwcl6p4824c3o5gc48q": "Regular Expressions",
+    "oo6bpdb8enqslzc0l1bneif": "Scripting",
+    "yltbg1cwtttuy5wqwqn93cj": "PowerShell",
+    "97jmuenrl8j8w0cg6zwb5yo": "Search Engineering",
+    "2zzdvob2h82f9c1qt2pwtmk": "Security",
+    "1mwohii1eaor1zciqmp0otm": "Certificates",
+    "g04m5puknpyev81g4295y0b": "OAuth",
+    "72a6wdfrjzjeadl3usg19lx": "Privacy",
+    "4wbd0l8fqm9rn2vr2xv0dt7": "Single Sign-On (SSO)",
+    "ygmh2n71goc58di3z942tms": "Syslog",
+    "t58wEmhAtf1GlHmO": "Templates",
+    "hXyoNOiZ0tRepcQ6Mw79Q": "Contacts",
+    "seitr7b8nu0kc017j1hd01v": "Journal",
+    "4lpcmcajbuq13dygye9fkbj": "Daily",
+    "x4bdzc7HETP9CDVGJJaHT": "The Five Minute Journal",
+    "dEQX87VBTFJdqBM0": "Project",
+    "SYXrPmslg4yLWVDTB3J7d": "Writing",
+    "drpadXCVWfcVmnB5rwcdf": "Task List",
+    "t9ayf0roz6s5r6sknol7rrc": "Versioning",
+    "LTcL1fK4Jo66ETaWeK1FK": "Git",
+    "Otb17Tvp1g9j7aUs1drP9": "Virtualization",
+    "epeaq0sf7bp5w7cospgqvvo": "Web Development",
+    "ixu0s8y0ox5hd04jqfg2f81": "Content Management Systems",
+    "h1ajiwxd39jb49lqomd4rzq": "HTTP",
+    "r8cp764pnyr1yox2dfpt3uo": "Time to First Byte (TTFB)",
+    "9t2cbpqc1vofuqkwlmbttky": "Writing"
+  }
+}

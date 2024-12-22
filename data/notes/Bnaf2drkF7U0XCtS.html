@@ -1,0 +1,52 @@
+<h1 id="kernel-density-estimation">Kernel Density Estimation<a aria-hidden="true" class="anchor-heading icon-link" href="#kernel-density-estimation"></a></h1>
+<h2 id="notes">Notes<a aria-hidden="true" class="anchor-heading icon-link" href="#notes"></a></h2>
+<ul>
+<li>Most popular technique for estimating probability densities of random variables</li>
+<li>A chosen kernel function is applied for each point in the finite dataset</li>
+<li>Many possible kernel functions, such as, but not limited to:
+<ul>
+<li>Gaussian (normal)</li>
+<li>Triangular</li>
+<li>Rectangular (uniform/box)</li>
+<li>Epanechnikov (parabolic)</li>
+<li>Biweight (quartic)</li>
+<li>Triweight</li>
+<li>Tricube</li>
+<li>Cosine</li>
+</ul>
+</li>
+<li>One can choose different kernel widths</li>
+<li>Adaptive KDE</li>
+</ul>
+<h2 id="formula">Formula<a aria-hidden="true" class="anchor-heading icon-link" href="#formula"></a></h2>
+<div class="math math-display"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mn>1</mn><mrow><mi>n</mi><mi>h</mi></mrow></mfrac><munderover><mo>∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mi>n</mi></munderover><mi>K</mi><mo stretchy="false">(</mo><mfrac><mrow><mi>x</mi><mo>−</mo><msub><mi>x</mi><mi>i</mi></msub></mrow><mi>h</mi></mfrac><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">f(x) = \frac{1}{nh}\sum_{i=1}^{n}K(\frac{x-x_i}{h})</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:2.9291em;vertical-align:-1.2777em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3214em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">nh</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mop op-limits"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.6514em;"><span style="top:-1.8723em;margin-left:0em;"><span class="pstrut" style="height:3.05em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">i</span><span class="mrel mtight">=</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.05em;"><span class="pstrut" style="height:3.05em;"></span><span><span class="mop op-symbol large-op">∑</span></span></span><span style="top:-4.3em;margin-left:0em;"><span class="pstrut" style="height:3.05em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.2777em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">K</span><span class="mopen">(</span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.2603em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">h</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3117em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose">)</span></span></span></span></span></div>
+<p>where <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">n</span></span></span></span></span> is the number of sample, <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>h</mi></mrow><annotation encoding="application/x-tex">h</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">h</span></span></span></span></span> is the <em>bandwidth</em> and <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>K</mi></mrow><annotation encoding="application/x-tex">K</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.07153em;">K</span></span></span></span></span> is the <em>kernel function</em>.</p>
+<h2 id="references">References<a aria-hidden="true" class="anchor-heading icon-link" href="#references"></a></h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Kernel_density_estimation">https://en.wikipedia.org/wiki/Kernel_density_estimation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kernel_(statistics)#Kernel_functions_in_common_use">https://en.wikipedia.org/wiki/Kernel_(statistics)#Kernel_functions_in_common_use</a></li>
+<li><a href="http://www.mit.edu/~talw/publications/kde_space_full.pdf">http://www.mit.edu/~talw/publications/kde_space_full.pdf</a></li>
+<li><a href="https://towardsdatascience.com/modality-tests-and-kernel-density-estimations-3f349bb9e595">https://towardsdatascience.com/modality-tests-and-kernel-density-estimations-3f349bb9e595</a></li>
+<li><a href="https://bmcproc.biomedcentral.com/articles/10.1186/1753-6561-7-S7-S7">https://bmcproc.biomedcentral.com/articles/10.1186/1753-6561-7-S7-S7</a></li>
+<li><a href="http://faculty.washington.edu/yenchic/18W_425/Lec6_hist_KDE.pdf">http://faculty.washington.edu/yenchic/18W_425/Lec6_hist_KDE.pdf</a></li>
+<li><a href="https://stats.stackexchange.com/questions/219833/density-estimation-for-large-dataset">https://stats.stackexchange.com/questions/219833/density-estimation-for-large-dataset</a></li>
+</ul>
+<h2 id="implementations">Implementations<a aria-hidden="true" class="anchor-heading icon-link" href="#implementations"></a></h2>
+<ul>
+<li><a href="https://cran.r-project.org/web/packages/kedd/vignettes/kedd.pdf">https://cran.r-project.org/web/packages/kedd/vignettes/kedd.pdf</a></li>
+<li><a href="https://stat.ethz.ch/R-manual/R-devel/library/stats/html/density.html">https://stat.ethz.ch/R-manual/R-devel/library/stats/html/density.html</a></li>
+<li><a href="https://stat.ethz.ch/R-manual/R-devel/library/KernSmooth/html/bkde.html">https://stat.ethz.ch/R-manual/R-devel/library/KernSmooth/html/bkde.html</a></li>
+<li><a href="https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html">https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html</a></li>
+</ul>
+<h2 id="articles--papers">Articles &#x26; Papers<a aria-hidden="true" class="anchor-heading icon-link" href="#articles--papers"></a></h2>
+<ul>
+<li><a href="https://aakinshin.net/posts/kde-bw/">https://aakinshin.net/posts/kde-bw/</a></li>
+<li><a href="https://aakinshin.net/posts/discrete-sample-jittering/">https://aakinshin.net/posts/discrete-sample-jittering/</a></li>
+<li><a href="https://www.cs.utah.edu/~lifeifei/papers/kernelsigmod13.pdf">https://www.cs.utah.edu/~lifeifei/papers/kernelsigmod13.pdf</a></li>
+<li><a href="http://www.econ.upf.edu/~lugosi/l1testrev.pdf">http://www.econ.upf.edu/~lugosi/l1testrev.pdf</a></li>
+</ul>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/dendron/notes/xvhUvJgMjIWBVEmo">Violin Plot (vault)</a></li>
+</ul>
