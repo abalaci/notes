@@ -2,7 +2,7 @@
 id: nyx7bz80r362cu163vhwqyk
 title: Libraries & Frameworks
 desc: ''
-updated: 1734179769617
+updated: 1734888660231
 created: 1664308769136
 ---
 
@@ -95,7 +95,12 @@ Supports both RFC3164 and RFC5424 message formats.
 
 - [Humanizer](https://github.com/Humanizr/Humanizer): A library for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
 
+## UI
+
+- [Avalonia](https://avaloniaui.net/): An open source framework for building beautiful, cross-platform applications from a single .NET codebase.
+
 ## Testing
 
 - [AutoFake](https://github.com/Serg046/AutoFake): Mock any type members, including static and non-virtual ones.
 - [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet): A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
+- [TUnit](https://github.com/thomhurst/TUnit): A modern, fast, and flexible .NET testing framework.
